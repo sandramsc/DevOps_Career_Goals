@@ -200,8 +200,6 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Object Oriented Programming|                                           |
 | Sequelize                   |                                           |
 | SQLAlchemy                  |                                           |
-| Docker                      |                                           |
-| Kubernetes                  |                                           |
 
   </tr>
 </table>
