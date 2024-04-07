@@ -51,7 +51,7 @@ This roadmap outlines the skills and technologies to learn for advancing in a De
 | Cross-functional Collaboration           | Collaborative leadership, Conflict resolution | [Cross-functional collaboration strategies](#) | Not Started  |
 | Strategic Planning and Execution         | Strategic planning, Execution            | [Strategic planning methodologies](#), [Execution frameworks](#) | Not Started  |
 
-## Year 5: Head of Engineering Role at Zalando
+## Year 5:
 
 | Goal | Skills | Technologies to Learn | Progress |
 |------|--------|-----------------------|----------|
