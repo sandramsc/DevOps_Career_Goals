@@ -60,17 +60,9 @@ This roadmap outlines the skills and technologies to learn for advancing in a De
 | Collaborate with cross-functional teams to drive frontend infrastructure evolution | Strategic Planning, Collaboration | - | Not Started |
 | Recruit and develop top-tier engineering talent | Talent Management, Recruitment | - | Not Started |
 | Enhance communication skills to articulate technical concepts effectively | Communication, Public Speaking | - | Not Started |
+| Resources and Development | - | [Coursera: Leadership and Management Courses](https://www.coursera.org/browse/business/leadership-management), [edX: Engineering Management MicroMasters Program](https://www.edx.org/micromasters/mitx-engineering-management), [Harvard Business Review: Strategic Thinking Articles](https://hbr.org/topic/strategic-thinking), [LinkedIn Learning: Recruitment and Talent Management Courses](https://www.linkedin.com/learning/topics/recruiting), [Toastmasters International: Communication and Public Speaking Training](https://www.toastmasters.org/), [Zalando Tech Blog](https://tech.zalando.com/) | Not Started |
 
-### Resources and Development
 
-To prepare for this role, consider investing in the following areas:
-
-- **Leadership Development Courses:** [Coursera: Leadership and Management Courses](https://www.coursera.org/browse/business/leadership-management)
-- **Advanced Engineering Management:** [edX: Engineering Management MicroMasters Program](https://www.edx.org/micromasters/mitx-engineering-management)
-- **Strategic Thinking:** [Harvard Business Review: Strategic Thinking Articles](https://hbr.org/topic/strategic-thinking)
-- **Recruitment and Talent Management:** [LinkedIn Learning: Recruitment and Talent Management Courses](https://www.linkedin.com/learning/topics/recruiting)
-- **Communication Training:** [Toastmasters International: Communication and Public Speaking Training](https://www.toastmasters.org/)
-- **Industry Insights:** [Zalando Tech Blog](https://tech.zalando.com/) - Stay updated with Zalando's engineering insights and innovations.
 
 
 
