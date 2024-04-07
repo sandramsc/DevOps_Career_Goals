@@ -90,3 +90,45 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Master talent recruitment and team building | Talent Management, Recruitment | Recruitment and Talent Management | [Recruiting and Retention]((https://www.linkedin.com/learning/topics/recruiting)) | Not Started |
 | Develop inspiring leadership qualities with a customer-centric focus | Leadership, Customer Orientation | Leadership and Management Articles <br> Customer-Centric Leadership | Leadership Development for  <br> Customer-Centric  | Not Started |
 
+# 7-Day Learning Plan - Year 1: Junior DevOps Engineer
+
+| Day | Goal                                     | Time Allocated |
+|-----|------------------------------------------|----------------|
+| 1   | Scripting with Python                    | 1 hour        |
+|     | Version Control with Git                 | 2 hours        |
+|     | Basics of Cloud Computing                | 2 hours        |
+| 2   | Programming with Golang                  | 1 hour        |
+|     | Fundamentals of CI/CD                   | 2 hours        |
+|     | Linux System Administration              | 2 hours        |
+| 3   | Networking Fundamentals                  | 1 hour        |
+|     | Full Stack Development                   | 2 hours        |
+| 4   | Scripting with Python                    | 1 hour        |
+|     | Programming with Golang                  | 1 hour        |
+|     | Basics of Cloud Computing                | 1 hour        |
+|     | Fundamentals of CI/CD                   | 1 hour        |
+|     | Linux System Administration              | 1 hour        |
+|     | Networking Fundamentals                  | 1 hour        |
+|     | Full Stack Development                   | 1 hour        |
+| 5   | Scripting with Python                    | 1 hour        |
+|     | Programming with Golang                  | 1 hour        |
+|     | Basics of Cloud Computing                | 1 hour        |
+|     | Fundamentals of CI/CD                   | 1 hour        |
+|     | Linux System Administration              | 1 hour        |
+|     | Networking Fundamentals                  | 1 hour        |
+|     | Full Stack Development                   | 1 hour        |
+| 6   | Scripting with Python                    | 1 hour        |
+|     | Programming with Golang                  | 1 hour        |
+|     | Basics of Cloud Computing                | 1 hour        |
+|     | Fundamentals of CI/CD                   | 1 hour        |
+|     | Linux System Administration              | 1 hour        |
+|     | Networking Fundamentals                  | 1 hour        |
+|     | Full Stack Development                   | 1 hour        |
+| 7   | Scripting with Python                    | 1 hour        |
+|     | Programming with Golang                  | 1 hour        |
+|     | Basics of Cloud Computing                | 1 hour        |
+|     | Fundamentals of CI/CD                   | 1 hour        |
+|     | Linux System Administration              | 1 hour        |
+|     | Networking Fundamentals                  | 1 hour        |
+|     | Full Stack Development                   | 1 hour        |
+
+
