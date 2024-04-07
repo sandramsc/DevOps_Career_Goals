@@ -1,6 +1,7 @@
-# Devops with Full Stack Development Career Progression Roadmap
-
-This roadmap outlines the skills and technologies to learn for advancing in a Devops with Full Stack Development career over a 5-year period. Each year is divided into specific goals, skills, technologies to learn, suggested courses, and progress tracking.
+<h1 align="center">Devops with Full Stack Development Career Progression Roadmap</h1>
+<p align="center">
+ This roadmap outlines the skills and technologies to learn for advancing in a Devops with Full Stack Development career over a 5-year period. Each year is divided into specific goals, skills, technologies to learn, suggested courses, and progress tracking.
+</p>
 
 ## Year 1: Junior Engineer
 
