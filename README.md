@@ -155,15 +155,19 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
    </td>
     <td>
 
-| Hard Skills                                                                                                                      | Soft Skills                                                                                                   |
-|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| SDLC, Linux, Python Scripting, Golang, Kubernetes, Docker, Git, IP Addressing, Ports and Protocols, Network Services, VPC, EC2, | Leadership Development, Team Collaboration and Communication, Problem-Solving, Time Management, Adaptability, |
-| Ports and Protocols, Network Services, VPC, EC2, |  |
-| S3, RDS, IAM, Lambda, Route 53, CloudWatch, EKS, Terraform, Ansible, Jenkins, GitOps, Prometheus, React, Redux, JavaScript,  | Continuous Learning, Project Management, Stakeholder Management, Mentorship and Coaching, Strategic Planning   |
-|  Ansible, Jenkins, GitOps, Prometheus, React, Redux, JavaScript,  |    |
-| HTML/CSS, Node.js, Express, Python, Flask, Django, SQL, Docker, Kubernetes, Microservices, Data Structures and Algorithms,    | and Execution, Verbal and Written Communication Skills, Cross-functional Collaboration, Thought Leadership,   |
-|  Docker, Kubernetes, Microservices, Data Structures and Algorithms,    | and Execution, Verbal and Written Communication Skills, Cross-functional Collaboration, Thought Leadership,   |
-| TDD, Object Oriented Programming, Sequelize, SQLAlchemy                                                                          | Business Acumen, Talent Recruitment and Team Building, Customer Orientation                                    |
+| Hard Skills                                                      | Soft Skills                                                                                                   |
+|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| SDLC, Linux, Python Scripting                                   | Leadership Development, Team Collaboration and Communication, Problem-Solving, Time Management, Adaptability, |
+| Golang, Kubernetes, Docker, Git                                | Continuous Learning, Project Management, Stakeholder Management, Mentorship and Coaching, Strategic Planning   |
+| IP Addressing, Ports and Protocols, Network Services, VPC      | and Execution, Verbal and Written Communication Skills, Cross-functional Collaboration, Thought Leadership,   |
+| EC2, S3, RDS, IAM                                              | Business Acumen, Talent Recruitment and Team Building, Customer Orientation                                    |
+| Lambda, Route 53, CloudWatch, EKS                              |                                                                                                               |
+| Terraform, Ansible, Jenkins, GitOps                            |                                                                                                               |
+| Prometheus, React, Redux, JavaScript                           |                                                                                                               |
+| HTML/CSS, Node.js, Express, Python                             |                                                                                                               |
+| Flask, Django, SQL, Docker                                     |                                                                                                               |
+| Kubernetes, Microservices, Data Structures and Algorithms      |                                                                                                               |
+| TDD, Object Oriented Programming, Sequelize                    |                                                                                                               |
 
    </td>
   </tr>
