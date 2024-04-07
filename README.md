@@ -2,7 +2,7 @@
 
 This roadmap outlines the skills and technologies to learn for advancing in a Devops with Full Stack Development career over a 5-year period. Each year is divided into specific goals, skills, technologies to learn, suggested courses, and progress tracking.
 
-## Year 1: Junior DevOps Engineer
+## Year 1: Junior Engineer
 
 | Goal                                     | Skills                                      | Technologies to Learn                    | Suggested Courses                                          | Progress     |
 |------------------------------------------|---------------------------------------------|------------------------------------------|-----------------------------------------------------------|--------------|
@@ -23,7 +23,7 @@ This roadmap outlines the skills and technologies to learn for advancing in a De
 - Full Stack Development: Begin learning full-stack development with resources like IBM Full Stack Developer and Full Stack Open, covering HTML, CSS, JavaScript, React, Node.js, Express, Python, Flask, Django, SQL, testing, state management, CSS, Webpack, GraphQL, TypeScript, React Native, CI/CD, containers, and relational databases.
 Develop a strong foundation in essential DevOps skills such as scripting, version control, cloud computing basics, CI/CD, Linux system administration, and networking fundamentals.
 
-## Year 2: Junior DevOps Engineer
+## Year 2: Junior Engineer
 
 | Goal                                     | Skills                                      | Technologies to Learn                         | Suggested Courses                                          | Progress     |
 |------------------------------------------|---------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|--------------|
@@ -44,7 +44,7 @@ Develop a strong foundation in essential DevOps skills such as scripting, versio
 - Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
 Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
 
-## Year 3: Mid-Level / Senior DevOps Engineer
+## Year 3: Mid-Level / Senior Engineer
 
 | Goal                                      | Skills                                    | Technologies to Learn                                    | Suggested Courses                                          | Progress     |
 |-------------------------------------------|-------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|--------------|
@@ -91,7 +91,7 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Master talent recruitment and team building | Talent Management, Recruitment | Recruitment and Talent Management | [Recruiting and Retention]((https://www.linkedin.com/learning/topics/recruiting)) | Not Started |
 | Develop inspiring leadership qualities with a customer-centric focus | Leadership, Customer Orientation | Leadership and Management Articles <br> Customer-Centric Leadership | Leadership Development for  <br> Customer-Centric  | Not Started |
 
-
+## Timetable & Accumulated Skills
 
 <table>
   <tr>
