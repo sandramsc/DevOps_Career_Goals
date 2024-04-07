@@ -55,11 +55,13 @@ This roadmap outlines the skills and technologies to learn for advancing in a De
 
 | Goal | Skills | Technologies to Learn | Progress |
 |------|--------|-----------------------|----------|
-| Lead teams in developing innovative frontend experiences for fashion discovery | Leadership, Team Management | Coursera: [Leadership and Management Courses](https://www.coursera.org/browse/business/leadership-management) <br> edX: [Engineering Management MicroMasters Program](https://www.edx.org/micromasters/mitx-engineering-management) | In Progress |
-| Ensure high engineering quality, throughput, and reliability | Engineering Quality Assurance, Operational Excellence | - | In Progress |
-| Collaborate with cross-functional teams to drive frontend infrastructure evolution | Strategic Planning, Collaboration | Harvard Business Review: [Strategic Thinking Articles](https://hbr.org/topic/strategic-thinking) | Not Started |
-| Recruit and develop top-tier engineering talent | Talent Management, Recruitment | LinkedIn Learning: [Recruitment and Talent Management Courses](https://www.linkedin.com/learning/topics/recruiting) <br> Zalando Tech Blog | Not Started |
-| Enhance communication skills to articulate technical concepts effectively | Communication, Public Speaking | Toastmasters International: [Communication and Public Speaking Training](https://www.toastmasters.org/) | Not Started |
+| Lead teams in building frontend applications for web, iOS, and Android | Frontend Development, Mobile Development | Coursera: [Frontend Web Development Courses](https://www.coursera.org/browse/computer-science/web-development) <br> Udemy: [iOS Development Courses](https://www.udemy.com/courses/search/?q=iOS%20development) <br> Udacity: [Android Development Courses](https://www.udacity.com/courses/android) | In Progress |
+| Foster a continuous delivery culture and own large-scale engineering systems | Continuous Delivery, System Design | Pluralsight: [Continuous Delivery Courses](https://www.pluralsight.com/browse/software-development/continuous-delivery) <br> Coursera: [System Design and Scalability Courses](https://www.coursera.org/browse/computer-science/systems-programming) | Not Started |
+| Lead teams in developing and operating critical infrastructure | Infrastructure Management, Operations | LinkedIn Learning: [Infrastructure Management Courses](https://www.linkedin.com/learning/topics/infrastructure-management) <br> AWS Training and Certification: [Operations Courses](https://aws.amazon.com/training/operations/) | Not Started |
+| Enhance verbal and written communication skills for articulating technical concepts | Communication, Technical Writing | Udemy: [Technical Writing Courses](https://www.udemy.com/courses/search/?q=technical%20writing) <br> Toastmasters International: [Communication Training](https://www.toastmasters.org/) | Not Started |
+| Master talent recruitment and team building | Talent Management, Recruitment | LinkedIn Learning: [Recruitment and Talent Management Courses](https://www.linkedin.com/learning/topics/recruiting) <br> Zalando Tech Blog | Not Started |
+| Develop inspiring leadership qualities with a customer-centric focus | Leadership, Customer Orientation | Harvard Business Review: [Leadership and Management Articles](https://hbr.org/topic/leadership) <br> Udacity: [Customer-Centric Leadership Courses](https://www.udacity.com/course/customer-centric-leadership--nd037) | Not Started |
+
 
 
 
