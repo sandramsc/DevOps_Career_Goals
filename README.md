@@ -55,16 +55,12 @@ This roadmap outlines the skills and technologies to learn for advancing in a De
 
 | Goal | Skills | Technologies to Learn | Progress |
 |------|--------|-----------------------|----------|
-| Lead teams in developing innovative frontend experiences for fashion discovery | Leadership, Team Management | - | In Progress |
-| Coursera: [Leadership and Management Courses](https://www.coursera.org/browse/business/leadership-management) <br> edX: [Engineering Management MicroMasters Program](https://www.edx.org/micromasters/mitx-engineering-management) | 
+| Lead teams in developing innovative frontend experiences for fashion discovery | Leadership, Team Management | Coursera: [Leadership and Management Courses](https://www.coursera.org/browse/business/leadership-management) <br> edX: [Engineering Management MicroMasters Program](https://www.edx.org/micromasters/mitx-engineering-management) | In Progress |
 | Ensure high engineering quality, throughput, and reliability | Engineering Quality Assurance, Operational Excellence | - | In Progress |
-| - | - |
-| Collaborate with cross-functional teams to drive frontend infrastructure evolution | Strategic Planning, Collaboration | - | Not Started |
-| Harvard Business Review: [Strategic Thinking Articles](https://hbr.org/topic/strategic-thinking) | 
-| Recruit and develop top-tier engineering talent | Talent Management, Recruitment | - | Not Started |
-| LinkedIn Learning: [Recruitment and Talent Management Courses](https://www.linkedin.com/learning/topics/recruiting) <br> Zalando Tech Blog | 
-| Enhance communication skills to articulate technical concepts effectively | Communication, Public Speaking | - | Not Started |
-| Toastmasters International: [Communication and Public Speaking Training](https://www.toastmasters.org/) | 
+| Collaborate with cross-functional teams to drive frontend infrastructure evolution | Strategic Planning, Collaboration | Harvard Business Review: [Strategic Thinking Articles](https://hbr.org/topic/strategic-thinking) | Not Started |
+| Recruit and develop top-tier engineering talent | Talent Management, Recruitment | LinkedIn Learning: [Recruitment and Talent Management Courses](https://www.linkedin.com/learning/topics/recruiting) <br> Zalando Tech Blog | Not Started |
+| Enhance communication skills to articulate technical concepts effectively | Communication, Public Speaking | Toastmasters International: [Communication and Public Speaking Training](https://www.toastmasters.org/) | Not Started |
+
 
 
 
