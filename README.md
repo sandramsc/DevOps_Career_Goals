@@ -155,28 +155,25 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
    </td>
     <td>
     
+| Hard Skills                            | Soft Skills                               |
+|----------------------------------------|-------------------------------------------|
+| SDLC, Linux                           | Leadership Development                    |
+| Python Scripting, Golang              | Team Collaboration and Communication      |
+| Kubernetes, Docker                    | Problem-Solving                           |
+| Git, IP Addressing                    | Time Management                           |
+| Ports and Protocols, Network Services | Adaptability                              |
+| VPC, EC2, S3                          | Continuous Learning                       |
+| RDS, IAM, Lambda                      | Project Management                        |
+| Route 53, CloudWatch, EKS             | Stakeholder Management                    |
+| Terraform, Ansible, Jenkins           | Mentorship and Coaching                   |
+| GitOps, Prometheus, React             | Strategic Planning and Execution          |
+| Redux, JavaScript, HTML/CSS          | Verbal and Written Communication Skills  |
+| Node.js, Express                      | Cross-functional Collaboration            |
+| Python, Flask, Django, SQL            | Thought Leadership                        |
+| Microservices, Data Structures and Algorithms | Business Acumen                    |
+| TDD, Object Oriented Programming     | Talent Recruitment and Team Building      |
+| Sequelize, SQLAlchemy, Docker, Kubernetes | Customer Orientation                  |
 
-| Hard Skills                                       | Soft Skills                                                                                                   |
-|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| SDLC, Linux                                      | Leadership Development, Team Collaboration & Communication                                                |
-| Python Scripting, Golang                         | Problem-Solving, Time Management                                                                              |
-| Kubernetes, Docker                               | Adaptability, Continuous Learning                                                                             |
-| Git, IP Addressing                               | Project Management, Stakeholder Management                                                                    |
-| Ports and Protocols, Network Services            | Mentorship & Coaching, Strategic Planning & Execution                                                     |
-| VPC, EC2                                         | Verbal and Written Communication Skills, Cross-functional Collaboration                                       |
-| S3, RDS, IAM                                     | Thought Leadership, Business Acumen                                                                          |
-| Lambda, Route 53, CloudWatch                     | Talent Recruitment & Team Building, Customer Orientation                                                   |
-| EKS, Terraform, Ansible                          |                                                                                                               |
-| Jenkins, GitOps, Prometheus                      |                                                                                                               |
-| React, Redux                                     |                                                                                                               |
-| JavaScript, HTML/CSS                             |                                                                                                               |
-| Node.js, Express                                 |                                                                                                               |
-| Python, Flask                                    |                                                                                                               |
-| Django, SQL                                      |                                                                                                               |
-| Docker, Kubernetes                               |                                                                                                               |
-| Microservices, Data Structures and Algorithms    |                                                                                                               |
-| TDD, Object Oriented Programming                |                                                                                                               |
-| Sequelize, SQLAlchemy                            |                                                                                                               |
 
 
 
