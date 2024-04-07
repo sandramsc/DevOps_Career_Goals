@@ -91,6 +91,8 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Master talent recruitment and team building | Talent Management, Recruitment | Recruitment and Talent Management | [Recruiting and Retention]((https://www.linkedin.com/learning/topics/recruiting)) | Not Started |
 | Develop inspiring leadership qualities with a customer-centric focus | Leadership, Customer Orientation | Leadership and Management Articles <br> Customer-Centric Leadership | Leadership Development for  <br> Customer-Centric  | Not Started |
 
+
+
 # 7-Day Learning Plan - Year 1
 
 | Day | Goal                                     | Time Allocated |
@@ -148,4 +150,3 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Hard Skills                                                                                                       | Soft Skills                               |
 |-------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | SDLC, Linux, Python Scripting, Golang, Kubernetes, Docker, Git, IP Addressing, Ports and Protocols, Network Services, VPC, EC2, S3, RDS, IAM, Lambda, Route 53, CloudWatch, EKS, Terraform, Ansible, Jenkins, GitOps, Prometheus, React, Redux, JavaScript, HTML, CSS, Node.js, Express, Python, Flask, Django, SQL, Docker, Kubernetes, Microservices, Data Structures and Algorithms, TDD, Object Oriented Programming, Sequelize, SQLAlchemy | Leadership Development, Team Collaboration and Communication, Problem-Solving, Time Management, Adaptability, Continuous Learning, Project Management, Stakeholder Management, Mentorship and Coaching, Strategic Planning and Execution, Verbal and Written Communication Skills, Cross-functional Collaboration, Thought Leadership, Business Acumen, Talent Recruitment and Team Building, Customer Orientation |
-
