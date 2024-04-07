@@ -158,14 +158,14 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 
 | Hard Skills                                       | Soft Skills                                                                                                   |
 |---------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| SDLC, Linux                                      | Leadership Development, Team Collaboration and Communication, Problem-Solving, Time Management, Adaptability, |
-| Python Scripting, Golang                         | Continuous Learning, Project Management, Stakeholder Management, Mentorship and Coaching, Strategic Planning   |
-| Kubernetes, Docker                               | and Execution, Verbal and Written Communication Skills, Cross-functional Collaboration, Thought Leadership,   |
-| Git, IP Addressing                               | Business Acumen, Talent Recruitment and Team Building, Customer Orientation                                    |
-| Ports and Protocols, Network Services            |                                                                                                               |
-| VPC, EC2                                         |                                                                                                               |
-| S3, RDS, IAM                                     |                                                                                                               |
-| Lambda, Route 53, CloudWatch                     |                                                                                                               |
+| SDLC, Linux                                      | Leadership Development, Team Collaboration & Communication                                                |
+| Python Scripting, Golang                         | Problem-Solving, Time Management                                                                              |
+| Kubernetes, Docker                               | Adaptability, Continuous Learning                                                                             |
+| Git, IP Addressing                               | Project Management, Stakeholder Management                                                                    |
+| Ports and Protocols, Network Services            | Mentorship & Coaching, Strategic Planning & Execution                                                     |
+| VPC, EC2                                         | Verbal and Written Communication Skills, Cross-functional Collaboration                                       |
+| S3, RDS, IAM                                     | Thought Leadership, Business Acumen                                                                          |
+| Lambda, Route 53, CloudWatch                     | Talent Recruitment & Team Building, Customer Orientation                                                   |
 | EKS, Terraform, Ansible                          |                                                                                                               |
 | Jenkins, GitOps, Prometheus                      |                                                                                                               |
 | React, Redux                                     |                                                                                                               |
