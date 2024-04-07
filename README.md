@@ -161,18 +161,23 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Python Scripting, Golang              | Team Collaboration and Communication      |
 | Kubernetes, Docker                    | Problem-Solving                           |
 | Git, IP Addressing                    | Time Management                           |
-| Ports and Protocols, Network Services | Adaptability                              |
-| VPC, EC2, S3                          | Continuous Learning                       |
+| Ports & Protocols, Network Services | Adaptability                              |
+| VPC, EC2,                          | Continuous Learning                       |
 | RDS, IAM, Lambda                      | Project Management                        |
-| Route 53, CloudWatch, EKS             | Stakeholder Management                    |
-| Terraform, Ansible, Jenkins           | Mentorship and Coaching                   |
-| GitOps, Prometheus, React             | Strategic Planning and Execution          |
-| Redux, JavaScript, HTML/CSS          | Verbal and Written Communication Skills  |
+| Route 53, S3              | Stakeholder Management                    |
+| Terraform, Ansible           | Mentorship and Coaching                   |
+|CloudWatch, EKS             | Stakeholder Management                    |
+| GitOps, Prometheus            | Strategic Planning and Execution          |
+|  React, Jenkins             |          |
+| HTML, CSS          | Verbal and Written Communication Skills  |
+| Redux, JavaScript         |   |
 | Node.js, Express                      | Cross-functional Collaboration            |
-| Python, Flask, Django, SQL            | Thought Leadership                        |
+| Django, SQL            | Thought Leadership                        |
+| Python, Flask            | Thought Leadership                        |
 | Microservices, Data Structures and Algorithms | Business Acumen                    |
 | TDD, Object Oriented Programming     | Talent Recruitment and Team Building      |
-| Sequelize, SQLAlchemy, Docker, Kubernetes | Customer Orientation                  |
+| Sequelize, SQLAlchemy |              |
+| Docker, Kubernetes | Customer Orientation                  |
 
 
 
