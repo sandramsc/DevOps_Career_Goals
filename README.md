@@ -110,49 +110,50 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (2 hrs)         | 2 hours         |
+|     | Full Stack Development (2 hrs)          | 2 hours        |
 | 2   | Scripting with Python (1 hr)            | 1 hour         |
 |     | Programming with Golang (2 hrs)         | 2 hours        |
 |     | Basics of Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (1 hr)           | 1 hour         |
+|     | Full Stack Development (2 hrs)          | 2 hours        |
 | 3   | Scripting with Python (1 hr)            | 1 hour         |
 |     | Programming with Golang (2 hrs)         | 2 hours        |
 |     | Basics of Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (1 hr)           | 1 hour         |
+|     | Full Stack Development (2 hrs)          | 2 hours        |
 | 4   | Scripting with Python (1 hr)            | 1 hour         |
 |     | Programming with Golang (2 hrs)         | 2 hours        |
 |     | Basics of Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (1 hr)           | 1 hour         |
+|     | Full Stack Development (2 hrs)          | 2 hours        |
 | 5   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Programming with Golang (1 hr)         | 1 hour        |
+|     | Programming with Golang (2 hrs)         | 2 hours        |
 |     | Basics of Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (1 hr)           | 1 hour         |
+|     | Full Stack Development (2 hrs)          | 2 hours        |
 | 6   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Programming with Golang (1 hr)         | 1 hour        |
+|     | Programming with Golang (2 hrs)         | 2 hours        |
 |     | Basics of Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (1 hr)           | 1 hour         |
+|     | Full Stack Development (2 hrs)          | 2 hours        |
 | 7   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Programming with Golang (1 hr)         | 1 hour        |
+|     | Programming with Golang (2 hrs)         | 2 hours        |
 |     | Basics of Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (1 hr)           | 1 hour         |
+|     | Full Stack Development (2 hrs)          | 2 hours        |
+
 
    </td>
     <td>
