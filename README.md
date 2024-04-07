@@ -154,20 +154,25 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 |     | Full Stack Development (1 hr)           | 1 hour         |
    </td>
     <td>
+    
 
-| Hard Skills                                                      | Soft Skills                                                                                                   |
-|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| SDLC, Linux, Python Scripting                                   | Leadership Development, Team Collaboration and Communication, Problem-Solving, Time Management, Adaptability, |
-| Golang, Kubernetes, Docker, Git                                | Continuous Learning, Project Management, Stakeholder Management, Mentorship and Coaching, Strategic Planning   |
-| IP Addressing, Ports and Protocols, Network Services, VPC      | and Execution, Verbal and Written Communication Skills, Cross-functional Collaboration, Thought Leadership,   |
-| EC2, S3, RDS, IAM                                              | Business Acumen, Talent Recruitment and Team Building, Customer Orientation                                    |
-| Lambda, Route 53, CloudWatch, EKS                              |                                                                                                               |
-| Terraform, Ansible, Jenkins, GitOps                            |                                                                                                               |
-| Prometheus, React, Redux, JavaScript                           |                                                                                                               |
-| HTML/CSS, Node.js, Express, Python                             |                                                                                                               |
-| Flask, Django, SQL, Docker                                     |                                                                                                               |
-| Kubernetes, Microservices, Data Structures and Algorithms      |                                                                                                               |
-| TDD, Object Oriented Programming, Sequelize                    |                                                                                                               |
+| Hard Skills                                       | Soft Skills                                                                                                   |
+|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| SDLC, Linux, Python Scripting                    | Leadership Development, Team Collaboration and Communication, Problem-Solving, Time Management, Adaptability, |
+| Golang, Kubernetes, Docker                        | Continuous Learning, Project Management, Stakeholder Management, Mentorship and Coaching, Strategic Planning   |
+| Git, IP Addressing, Ports and Protocols          | and Execution, Verbal and Written Communication Skills, Cross-functional Collaboration, Thought Leadership,   |
+| Network Services, VPC, EC2                       | Business Acumen, Talent Recruitment and Team Building, Customer Orientation                                    |
+| S3, RDS, IAM                                     |                                                                                                               |
+| Lambda, Route 53, CloudWatch                     |                                                                                                               |
+| EKS, Terraform, Ansible                           |                                                                                                               |
+| Jenkins, GitOps, Prometheus                      |                                                                                                               |
+| React, Redux, JavaScript                          |                                                                                                               |
+| HTML/CSS, Node.js, Express                        |                                                                                                               |
+| Python, Flask, Django                             |                                                                                                               |
+| SQL, Docker, Kubernetes                           |                                                                                                               |
+| Microservices, Data Structures and Algorithms     |                                                                                                               |
+| TDD, Object Oriented Programming, Sequelize       |                                                                                                               |
+
 
    </td>
   </tr>
