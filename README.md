@@ -1,10 +1,8 @@
-# DevOps Career Progression Roadmap
+# Devops with Full Stack Development Career Progression Roadmap
 
-This roadmap outlines the skills and technologies to learn for advancing in a DevOps career over a four-year period. Each year is divided into specific goals, skills, technologies to learn, suggested courses, and progress tracking.
+This roadmap outlines the skills and technologies to learn for advancing in a Devops with Full Stack Development career over a 5-year period. Each year is divided into specific goals, skills, technologies to learn, suggested courses, and progress tracking.
 
 ## Year 1: Junior DevOps Engineer
-
-### Year 1: Junior DevOps Engineer
 
 | Goal                                     | Skills                                      | Technologies to Learn                    | Suggested Courses                                          | Progress     |
 |------------------------------------------|---------------------------------------------|------------------------------------------|-----------------------------------------------------------|--------------|
