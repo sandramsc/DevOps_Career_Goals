@@ -60,7 +60,7 @@ Advance expertise in cloud computing, CI/CD practices, infrastructure as code, c
 - Continuous Improvement: Continuously seek feedback from peers and mentors, and actively work on improving your skills and addressing any gaps identified.
 Transition into a mid-level or senior DevOps role by focusing on leadership development, advanced DevOps practices, technical proficiency in tooling, team collaboration and communication, platform strategy development, process optimization, project management, and stakeholder management.
 
-## Year 4: Tech Lead Manager DevOps
+## Year 4: Tech Lead Manager
 
 | Goal                                      | Skills                                    | Technologies to Learn                           | Suggested Courses                                          | Progress     |
 |-------------------------------------------|-------------------------------------------|-------------------------------------------------|-----------------------------------------------------------|--------------|
@@ -71,18 +71,17 @@ Transition into a mid-level or senior DevOps role by focusing on leadership deve
 | Cross-functional Collaboration           | Collaborative leadership, Conflict resolution | [Cross-functional collaboration strategies](#) | LinkedIn Learning: [Cross-functional Collaboration](https://www.linkedin.com/learning/cross-functional-collaboration) <br> Harvard Business Review: [Cross-functional Collaboration](https://hbr.org/2018/11/the-surprising-benefits-of-cross-functional-teams) | Not Started  |
 | Strategic Planning and Execution         | Strategic planning, Execution            | [Strategic planning methodologies](#), [Execution frameworks](#) | Harvard Business Review: [Strategic Planning](https://hbr.org/2019/05/strategic-planning) <br> Coursera: [Strategy Execution](https://www.coursera.org/learn/strategic-planning-execution) | Not Started  |
 
-### Preparing for Leadership Roles (Year 4)
+### Preparing for Leadership Roles (Year 4 & Year 5)
 - Preparation for Leadership Roles: Prepare for leadership roles by focusing on thought leadership, business acumen, mentorship, platform reliability engineering, cross-functional collaboration, and strategic planning.
 - Mentorship and Coaching: Take on mentorship roles to help junior team members grow and develop their skills, and seek opportunities to coach others in areas where you have expertise.
 - Strategic Initiatives: Lead strategic initiatives within your organization, such as process improvements, technology adoption, or culture-building activities.
 - Networking and Visibility: Build your professional network by attending industry events, participating in conferences, and contributing to thought leadership publications.
 Elevate to a tech lead manager role by honing thought leadership, business acumen, mentorship and coaching skills, platform reliability engineering, cross-functional collaboration, strategic planning and execution.
 
-## Year 5: Head of Engineering
+## Year 5: Tech Lead Manager
 
 | Goal | Skills | Technologies to Learn | Suggested Courses | Progress |
 |------|--------|-----------------------|-------------------|----------|
-| Lead teams in building frontend applications for web, iOS, and Android | Frontend Development, Mobile Development | Coursera: [Frontend Web Development Courses](https://www.coursera.org/browse/computer-science/web-development) <br> Udemy: [iOS Development Courses](https://www.udemy.com/courses/search/?q=iOS%20development) <br> Udacity: [Android Development Courses](https://www.udacity.com/courses/android) | Coursera: [Mobile App Development Specialization](https://www.coursera.org/specializations/mobile-app-development) <br> Udemy: [The Complete Web Developer Course](https://www.udemy.com/course/the-complete-web-developer-course/) | In Progress |
 | Foster a continuous delivery culture and own large-scale engineering systems | Continuous Delivery, System Design | Pluralsight: [Continuous Delivery Courses](https://www.pluralsight.com/browse/software-development/continuous-delivery) <br> Coursera: [System Design and Scalability Courses](https://www.coursera.org/browse/computer-science/systems-programming) | Pluralsight: [Scalable System Design Patterns](https://www.pluralsight.com/courses/scalable-system-design-patterns) <br> Udemy: [Designing Scalable Systems](https://www.udemy.com/course/designing-scalable-systems/) | Not Started |
 | Lead teams in developing and operating critical infrastructure | Infrastructure Management, Operations | LinkedIn Learning: [Infrastructure Management Courses](https://www.linkedin.com/learning/topics/infrastructure-management) <br> AWS Training and Certification: [Operations Courses](https://aws.amazon.com/training/operations/) | Coursera: [Infrastructure Management Specialization](https://www.coursera.org/specializations/infrastructure-management) <br> Pluralsight: [Operations Management](https://www.pluralsight.com/browse/it-operations/operations-management) | Not Started |
 | Enhance verbal and written communication skills for articulating technical concepts | Communication, Technical Writing | Udemy: [Technical Writing Courses](https://www.udemy.com/courses/search/?q=technical%20writing) <br> Toastmasters International: [Communication Training](https://www.toastmasters.org/) | Coursera: [Effective Communication Skills Specialization](https://www.coursera.org/specializations/communication-skills) <br> LinkedIn Learning: [Technical Writing Essentials](https://www.linkedin.com/learning/technical-writing-essential-training) | Not Started |
