@@ -158,16 +158,16 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Hard Skills                 | Soft Skills                               |
 |-----------------------------|-------------------------------------------|
 | SDLC                        | Leadership Development                    |
-| Linux                       | Team Collaboration and Communication      |
+| Linux                       | Team Collaboration & Communication      |
 | Python Scripting            | Problem-Solving                           |
 | Golang                      | Time Management                           |
 | Kubernetes                  | Adaptability                              |
 | Docker                      | Continuous Learning                       |
-| Git                         | Project Management                        |
+| Git                         | IT Project Management                        |
 | IP Addressing               | Stakeholder Management                    |
 | Ports and Protocols         | Mentorship and Coaching                   |
 | Network Services            | Strategic Planning and Execution          |
-| VPC                         | Verbal and Written Communication Skills  |
+| VPC                         | Technical Skills  |
 | EC2                         | Cross-functional Collaboration            |
 | S3                          | Thought Leadership                        |
 | RDS                         |                                           |
