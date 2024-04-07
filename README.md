@@ -198,7 +198,6 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Data Structures and Algorithms |                                        |
 | TDD                         |                                           |
 | Object Oriented Programming|                                           |
-| Sequelize                   |                                           |
 | SQLAlchemy                  |                                           |
 
   </tr>
