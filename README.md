@@ -207,4 +207,4 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 </table>
 
 
-**Note** not everything that has a link that reads <i>course</i> is a study material resource, some are reading material for information purpouses.
+**Note:** not everything that has a link that reads <i>course</i> is a study material resource, some are reading material for information purpouses.
