@@ -1,73 +1,50 @@
-# DevOps Career Progression Roadmap
-
-This roadmap outlines the skills and technologies to learn for advancing in a DevOps career over a four-year period. Each year is divided into specific goals, skills, and technologies to focus on.
-
-## Year 1:
-
-| Goal                                     | Skills                                      | Technologies to Learn                    | Progress     |
-|------------------------------------------|---------------------------------------------|------------------------------------------|--------------|
-| Learn Scripting/Programming and Golang  | Scripting/Programming basics, Golang       | Golang basics, Scripting fundamentals   | In Progress  |
-| Version Control with Git                 | Git basics                                  | Git commands, Version control concepts  | In Progress  |
-| Basics of Cloud Computing                | Cloud fundamentals                          | Cloud service providers, Basic concepts | Not Started  |
-| Fundamentals of CI/CD                    | Continuous Integration/Continuous Deployment basics | CI/CD pipelines, Automation tools | Not Started  |
-| Linux System Administration              | Shell Commands, SSH for remote access, Virtualization, Text Editors, File System Permissions, Package Management, Process Management | Linux shell commands, SSH, Virtualization basics, Text editors, File permissions, Package managers, Process management | Not Started  |
-| Networking Fundamentals                  | IP Addressing, Ports and Protocols, Network Services, Routing and Switching Basics, Authentication and Authorization, Security Best Practices, Shift-Left Security, Firewalls and Network Security | Networking basics, TCP/IP, DNS, DHCP, Security concepts | Not Started  |
-
-## Year 2:
-
-| Goal                                     | Skills                                      | Technologies to Learn                         | Progress     |
-|------------------------------------------|---------------------------------------------|-----------------------------------------------|--------------|
-| Advanced Cloud Computing                 | Cloud architecture, Deployment strategies  | Advanced cloud services, Multi-cloud setups    | Not Started  |
-| Mastery in CI/CD                         | CI/CD best practices, Automation tools     | Advanced CI/CD pipelines, Orchestration tools  | Not Started  |
-| Infrastructure as Code (IaC)             | Infrastructure Provisioning, Configuration Management | Terraform, Ansible, IaC principles            | Not Started  |
-| Containerization and Orchestration       | Microservices, Docker, Kubernetes          | Docker, Kubernetes basics, Containerization    | Not Started  |
-| Advanced Scripting/Programming           | Python, Golang, Scripting automation       | Advanced scripting techniques, Automation     | Not Started  |
-| Advanced Networking                      | Advanced Networking concepts, Security     | VLANs, Subnetting, VPNs, Network Security      | Not Started  |
-| Prometheus and Grafana                   | Monitoring and Observability             | Prometheus, Grafana, Monitoring best practices | Not Started  |
-| GitOps - ArgoCD                          | Git, CI/CD, IaC                           | Git, CI/CD, Infrastructure as Code concepts    | Not Started  |
-| Service Mesh                             | Service Discovery, Traffic Management     | Istio, Linkerd, Service Mesh concepts          | Not Started  |
-
-## Year 3:
-
-| Goal                                      | Skills                                    | Technologies to Learn                                    | Progress     |
-|-------------------------------------------|-------------------------------------------|----------------------------------------------------------|--------------|
-| Leadership Development                   | Leadership skills, Team management       | [Leadership courses](#), [Team building exercises](#)     | Not Started  |
-| Advanced DevOps Practices                | Advanced DevOps methodologies            |  [DevOps best practices](#)           | Not Started  |
-| Technical Proficiency in Tooling         | Familiarity with tech stack              | Deep dive into (Go, Kubernetes, AWS, RESTAPI design, Postgres)    | Not Started  |
-| Team Collaboration and Communication     | Collaborative skills, Communication     | [Effective communication techniques](#), [Team collaboration](#)   | Not Started  |
-| Platform Strategy Development            | Strategic planning, Platform development | [Platform strategy frameworks](#), [Platform development](#)       | Not Started  |
-| Process Optimization                     | Process improvement techniques           | [Process optimization frameworks](#), [Continuous improvement](#)  | Not Started  |
-| Project Management                      | Project management skills, Prioritization | [Project management courses](#), [Agile methodologies](#)            | Not Started  |
-| Stakeholder Management                   | Stakeholder engagement, Relationship management | [Stakeholder management techniques](#), [Relationship-building](#) | Not Started  |
-
-## Year 4:
-
-| Goal                                      | Skills                                    | Technologies to Learn                           | Progress     |
-|-------------------------------------------|-------------------------------------------|-------------------------------------------------|--------------|
-| Thought Leadership                       | Thought leadership skills                 | [Thought leadership frameworks](#), [Industry trends](#) | Not Started  |
-| Business Acumen                          | Business strategy, Industry knowledge     | [Business strategy frameworks](#), [Industry research](#) | Not Started  |
-| Mentorship and Coaching                  | Mentorship skills, Coaching techniques    | [Mentorship courses](#), [Coaching methodologies](#)    | Not Started  |
-| Platform Reliability Engineering         | Site Reliability Engineering (SRE)        | [SRE practices](#), [Reliability engineering principles](#) | Not Started  |
-| Cross-functional Collaboration           | Collaborative leadership, Conflict resolution | [Cross-functional collaboration strategies](#) | Not Started  |
-| Strategic Planning and Execution         | Strategic planning, Execution            | [Strategic planning methodologies](#), [Execution frameworks](#) | Not Started  |
-
-## Year 5:
+## Year 1: Junior DevOps Engineer
 
 | Goal | Skills | Technologies to Learn | Progress |
 |------|--------|-----------------------|----------|
-| Lead teams in building frontend applications for web, iOS, and Android | Frontend Development, Mobile Development | Coursera: [Frontend Web Development Courses](https://www.coursera.org/browse/computer-science/web-development) <br> Udemy: [iOS Development Courses](https://www.udemy.com/courses/search/?q=iOS%20development) <br> Udacity: [Android Development Courses](https://www.udacity.com/courses/android) | In Progress |
-| Foster a continuous delivery culture and own large-scale engineering systems | Continuous Delivery, System Design | Pluralsight: [Continuous Delivery Courses](https://www.pluralsight.com/browse/software-development/continuous-delivery) <br> Coursera: [System Design and Scalability Courses](https://www.coursera.org/browse/computer-science/systems-programming) | Not Started |
-| Lead teams in developing and operating critical infrastructure | Infrastructure Management, Operations | LinkedIn Learning: [Infrastructure Management Courses](https://www.linkedin.com/learning/topics/infrastructure-management) <br> AWS Training and Certification: [Operations Courses](https://aws.amazon.com/training/operations/) | Not Started |
-| Enhance verbal and written communication skills for articulating technical concepts | Communication, Technical Writing | Udemy: [Technical Writing Courses](https://www.udemy.com/courses/search/?q=technical%20writing) <br> Toastmasters International: [Communication Training](https://www.toastmasters.org/) | Not Started |
-| Master talent recruitment and team building | Talent Management, Recruitment | LinkedIn Learning: [Recruitment and Talent Management Courses](https://www.linkedin.com/learning/topics/recruiting) <br> Zalando Tech Blog | Not Started |
-| Develop inspiring leadership qualities with a customer-centric focus | Leadership, Customer Orientation | Harvard Business Review: [Leadership and Management Articles](https://hbr.org/topic/leadership) <br> Udacity: [Customer-Centric Leadership Courses](https://www.udacity.com/course/customer-centric-leadership--nd037) | Not Started |
+| Master basic Linux commands | Linux, Shell Commands | Udemy: [Linux Command Line Basics](https://www.udemy.com/course/linux-command-line-basics/) <br> Coursera: [Linux Fundamentals](https://www.coursera.org/learn/fundamentals-of-red-hat-enterprise-linux) | In Progress |
+| Learn foundational networking concepts | Networking, TCP/IP | LinkedIn Learning: [Networking Foundations](https://www.linkedin.com/learning/topics/networking) <br> Cisco Networking Academy: [Introduction to Networking](https://www.netacad.com/courses/intro-networking/) | Not Started |
+| Gain proficiency in at least one scripting language | Scripting, Bash | Codecademy: [Learn Bash Scripting](https://www.codecademy.com/learn/learn-bash-scripting) <br> Udemy: [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/course/shell-scripting-linux/) | Not Started |
+| Familiarize with cloud computing basics | Cloud Computing, AWS | AWS Training and Certification: [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/) <br> Coursera: [Introduction to Cloud Computing](https://www.coursera.org/learn/cloud-computing) | Not Started |
+| Understand the principles of CI/CD | CI/CD, Jenkins | Pluralsight: [Jenkins Fundamentals](https://www.pluralsight.com/courses/jenkins-fundamentals) <br> Udemy: [Jenkins, From Zero To Hero: Become a DevOps Jenkins Master](https://www.udemy.com/course/jenkins-from-zero-to-hero/) | Not Started |
 
+## Year 2: Mid-Level DevOps Engineer
 
+| Goal | Skills | Technologies to Learn | Progress |
+|------|--------|-----------------------|----------|
+| Dive deeper into cloud platforms | AWS, Azure, GCP | Google Cloud Training: [Google Cloud Fundamentals](https://cloud.google.com/training/cloud-infrastructure-fundamentals) <br> Microsoft Learn: [Azure Fundamentals](https://learn.microsoft.com/en-us/azure/) | Not Started |
+| Enhance skills in containerization | Docker, Kubernetes | Udemy: [Docker Mastery: with Kubernetes + Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) <br> Kubernetes.io: [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | Not Started |
+| Improve knowledge of configuration management tools | Ansible, Puppet, Chef | Ansible Documentation: [Getting Started](https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html) <br> Puppet Learning VM: [Puppet Practitioner](https://puppet.com/download-learning-vm) | Not Started |
+| Develop expertise in monitoring and logging | Prometheus, Grafana, ELK Stack | Grafana Tutorials: [Getting Started](https://grafana.com/docs/grafana/latest/getting-started/) <br> Elastic: [Elasticsearch Fundamentals](https://www.elastic.co/training/elasticsearch-fundamentals) | Not Started |
+| Strengthen skills in infrastructure as code | Terraform, AWS CDK | HashiCorp Learn: [Terraform Getting Started](https://learn.hashicorp.com/tutorials/terraform/install-cli) <br> AWS CDK Workshop: [Getting Started](https://cdkworkshop.com/) | Not Started |
 
+## Year 3: Senior DevOps Engineer
 
+| Goal | Skills | Technologies to Learn | Progress |
+|------|--------|-----------------------|----------|
+| Lead cross-functional initiatives | Leadership, Project Management | Udemy: [Leadership and Management Training](https://www.udemy.com/topic/leadership/) <br> Coursera: [Project Management Principles](https://www.coursera.org/specializations/project-management) | Not Started |
+| Optimize cloud resource usage | Cloud Cost Management | AWS Well-Architected: [Cost Optimization Pillar](https://aws.amazon.com/architecture/well-architected/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.product-category=*all&awsf.product=*all&awsf.solution-category=cost-management&awsf.solution-type=*all&awsf.keyword=cost%20optimization) <br> Google Cloud Blog: [Cost Management](https://cloud.google.com/blog/topics/cost-management) | Not Started |
+| Implement disaster recovery plans | Disaster Recovery, High Availability | AWS Documentation: [Disaster Recovery](https://aws.amazon.com/disaster-recovery/) <br> Microsoft Azure: [Disaster Recovery Solutions](https://azure.microsoft.com/en-us/solutions/disaster-recovery/) | Not Started |
+| Establish best practices for DevOps | DevOps Methodologies, Best Practices | DevOps Institute: [Best Practices Certification](https://devopsinstitute.com/) <br> DORA: [State of DevOps Report](https://cloud.google.com/blog/topics/inside-google-cloud/state-of-devops-2021-report-now-available) | Not Started |
+| Mentor junior team members | Mentorship, Coaching | LinkedIn Learning: [Mentoring Others](https://www.linkedin.com/learning/topics/mentoring-others) <br> Coursera: [Coaching Skills for Managers](https://www.coursera.org/specializations/coaching-skills) | Not Started |
 
+## Year 4: Tech Lead Manager DevOps
 
+| Goal | Skills | Technologies to Learn | Progress |
+|------|--------|-----------------------|----------|
+| Lead deployment and workflow orchestration platform development | Deployment Automation, Workflow Orchestration | Udemy: [Deployment Automation with Ansible](https://www.udemy.com/course/deployment-automation-with-ansible/) <br> GitLab Documentation: [CI/CD Pipeline Configuration](https://docs.gitlab.com/ee/ci/pipelines.html) | Not Started |
+| Drive operational excellence within the team | Operations Management, Performance Optimization | LinkedIn Learning: [Operations Management Fundamentals](https://www.linkedin.com/learning/topics/operations-management) <br> Google SRE: [Site Reliability Engineering Principles](https://landing.google.com/sre/resources/) | Not Started |
+| Build partnerships with other teams for platform strategy | Stakeholder Management, Collaboration | Harvard Business Review: [Stakeholder Management Techniques](https://hbr.org/) <br> Atlassian Blog: [Effective Collaboration Strategies](https://www.atlassian.com/blog) | Not Started |
+| Own and operate mission-critical platforms | Platform Operations, Incident Response | AWS Documentation: [Reliability Pillar](https://aws.amazon.com/architecture/well-architected/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.product-category=*all&awsf.product=*all&awsf.solution-category=operational-excellence&awsf.solution-type=*all&awsf.keyword=reliability) <br> Google Cloud: [Incident Management Best Practices](https://cloud.google.com/solutions/incident-management) | Not Started |
+| Improve engineering productivity across the organization | Engineering Efficiency, Process Improvement | Coursera: [Process Improvement Techniques](https://www.coursera.org/specializations/lean-six-sigma-green-belt) <br> Lean Enterprise Institute: [Lean Management Principles](https://www.lean.org/WhatIsLean/Principles.cfm) | Not Started |
 
+## Year 5: Head of Engineering Role at Zalando
 
-
-
+| Goal | Skills | Technologies to Learn | Progress |
+|------|--------|-----------------------|----------|
+| Lead teams in building frontend applications for web, iOS, and Android | Frontend Development, Mobile Development | Udacity: [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) <br> LinkedIn Learning: [iOS and Android Development Courses](https://www.linkedin.com/learning/topics/ios-development) | Not Started |
+| Foster a continuous delivery culture and own large-scale engineering systems | Continuous Delivery, System Design | Pluralsight: [Continuous Delivery with Jenkins](https://www.pluralsight.com/courses/continuous-delivery-jenkins) <br> Coursera: [System Design and Scalability](https://www.coursera.org/learn/system-design-scalability) | Not Started |
+| Lead teams in developing and operating critical infrastructure | Infrastructure Management, Operations | Udemy: [Infrastructure as Code with Terraform](https://www.udemy.com/course/terraform-beginner-to-advanced/) <br> AWS Training and Certification: [AWS Operations Course](https://aws.amazon.com/training/operations/) | Not Started |
+| Enhance verbal and written communication skills for articulating technical concepts | Communication, Technical Writing | LinkedIn Learning: [Technical Writing Skills](https://www.linkedin.com/learning/topics/technical-writing) <br> Toastmasters International: [Public Speaking Training](https://www.toastmasters.org/) | Not Started |
+| Master talent recruitment and team building | Talent Management, Recruitment | Udemy: [Recruitment Strategies and Talent Management](https://www.udemy.com/course/talent-management-strategies/) <br> LinkedIn Learning: [Talent Acquisition Foundations](https://www.linkedin.com/learning/topics/talent-acquisition) | Not Started |
+| Develop inspiring leadership qualities with a customer-centric focus | Leadership, Customer Orientation | Harvard Business Review: [Leadership Development Courses](https://hbr.org/) <br> Coursera: [Customer-Centric Leadership](https://www.coursera.org/specializations/customer-centric-leadership) | Not Started |
