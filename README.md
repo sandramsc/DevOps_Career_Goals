@@ -13,7 +13,10 @@ This roadmap outlines the skills and technologies to learn for advancing in a De
 | Linux System Administration              | Shell Commands, SSH for remote access, Virtualization, Text Editors, File System Permissions, Package Management, Process Management | Linux shell commands, SSH, Virtualization basics, Text editors, File permissions, Package managers, Process management | LinkedIn Learning: [Linux System Administration](https://www.linkedin.com/learning/topics/linux-system-administration) <br> Udemy: [Linux Command Line Basics](https://www.udemy.com/course/linux-command-line-basics/) | Not Started  |
 | Networking Fundamentals                  | IP Addressing, Ports and Protocols, Network Services, Routing and Switching Basics, Authentication and Authorization, Security Best Practices, Shift-Left Security, Firewalls and Network Security | Networking basics, TCP/IP, DNS, DHCP, Security concepts | Cisco Networking Academy: [Introduction to Networking](https://www.netacad.com/courses/intro-networking/) <br> Pluralsight: [Networking Fundamentals](https://www.pluralsight.com/courses/networking-fundamentals) | Not Started  |
 
-### Career Goal for Year 1:
+### Building a Foundation (Year 1):
+- Focus on Fundamentals: Build a strong foundation in essential DevOps skills such as scripting, version control, cloud computing basics, CI/CD, Linux system administration, and networking fundamentals.
+- Continuous Learning: Regularly assess your progress and identify areas for improvement. Complete the suggested courses and practice coding regularly to strengthen your skills.
+- Explore Specializations: Consider exploring specializations or certifications in areas like cloud computing or CI/CD to deepen your knowledge.
 Develop a strong foundation in essential DevOps skills such as scripting, version control, cloud computing basics, CI/CD, Linux system administration, and networking fundamentals.
 
 ## Year 2: Junior DevOps Engineer
@@ -30,7 +33,11 @@ Develop a strong foundation in essential DevOps skills such as scripting, versio
 | GitOps - ArgoCD                          | Git, CI/CD, IaC                           | Git, CI/CD, Infrastructure as Code concepts    | ArgoCD Documentation: [Getting Started](https://argo-cd.readthedocs.io/en/stable/getting_started/) <br> GitOps Guide: [Best Practices](https://www.gitops.tech/) | Not Started  |
 | Service Mesh                             | Service Discovery, Traffic Management     | Istio, Linkerd, Service Mesh concepts          | Istio Documentation: [Learn](https://istio.io/latest/docs/learn/) <br> Linkerd Documentation: [Getting Started](https://linkerd.io/2/getting-started/) | Not Started  |
 
-### Career Goal for Year 2:
+### Advancing Expertise (Year 2)
+- Advanced Skills Acquisition: Advance your expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
+- Hands-on Experience: Engage in real-world projects or contribute to open-source projects to gain practical experience and apply your skills in a professional setting.
+- Certifications and Advanced Courses: Pursue certifications or advanced courses in areas that align with your career goals, such as AWS Solutions Architect or Kubernetes Administrator.
+- Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
 Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
 
 ## Year 3: Mid-Level / Senior DevOps Engineer
@@ -46,7 +53,11 @@ Advance expertise in cloud computing, CI/CD practices, infrastructure as code, c
 | Project Management                      | Project management skills, Prioritization | [Project management courses](#), [Agile methodologies](#)            | Udemy: [Project Management Fundamentals](https://www.udemy.com/course/project-management-for-beginners-project-management-fundamentals/) <br> Scrum.org: [Agile Certification](https://www.scrum.org/) | Not Started  |
 | Stakeholder Management                   | Stakeholder engagement, Relationship management | [Stakeholder management techniques](#), [Relationship-building](#) | LinkedIn Learning: [Stakeholder Management Fundamentals](https://www.linkedin.com/learning/stakeholder-management-fundamentals) <br> Project Management Institute: [Stakeholder Engagement](https://www.pmi.org/certifications/practitioner-acp/agile-stakeholder-engagement) | Not Started  |
 
-### Career Goal for Year 3:
+### Transitioning to Leadership (Year 3)
+- Transition to Mid-Level/Senior Role: Focus on transitioning into a mid-level or senior DevOps role by enhancing your leadership skills, technical proficiency, collaboration, and project management capabilities.
+- Leadership Development: Invest in leadership development courses or workshops to hone your leadership skills and prepare for future management roles.
+- Cross-Functional Collaboration: Collaborate with other teams within your organization to understand their workflows and how DevOps practices can support their objectives.
+- Continuous Improvement: Continuously seek feedback from peers and mentors, and actively work on improving your skills and addressing any gaps identified.
 Transition into a mid-level or senior DevOps role by focusing on leadership development, advanced DevOps practices, technical proficiency in tooling, team collaboration and communication, platform strategy development, process optimization, project management, and stakeholder management.
 
 ## Year 4: Tech Lead Manager DevOps
@@ -60,7 +71,11 @@ Transition into a mid-level or senior DevOps role by focusing on leadership deve
 | Cross-functional Collaboration           | Collaborative leadership, Conflict resolution | [Cross-functional collaboration strategies](#) | LinkedIn Learning: [Cross-functional Collaboration](https://www.linkedin.com/learning/cross-functional-collaboration) <br> Harvard Business Review: [Cross-functional Collaboration](https://hbr.org/2018/11/the-surprising-benefits-of-cross-functional-teams) | Not Started  |
 | Strategic Planning and Execution         | Strategic planning, Execution            | [Strategic planning methodologies](#), [Execution frameworks](#) | Harvard Business Review: [Strategic Planning](https://hbr.org/2019/05/strategic-planning) <br> Coursera: [Strategy Execution](https://www.coursera.org/learn/strategic-planning-execution) | Not Started  |
 
-### Career Goal for Year 4:
+### Preparing for Leadership Roles (Year 4)
+- Preparation for Leadership Roles: Prepare for leadership roles by focusing on thought leadership, business acumen, mentorship, platform reliability engineering, cross-functional collaboration, and strategic planning.
+- Mentorship and Coaching: Take on mentorship roles to help junior team members grow and develop their skills, and seek opportunities to coach others in areas where you have expertise.
+- Strategic Initiatives: Lead strategic initiatives within your organization, such as process improvements, technology adoption, or culture-building activities.
+- Networking and Visibility: Build your professional network by attending industry events, participating in conferences, and contributing to thought leadership publications.
 Elevate to a tech lead manager role by honing thought leadership, business acumen, mentorship and coaching skills, platform reliability engineering, cross-functional collaboration, strategic planning and execution.
 
 ## Year 5: Head of Engineering
