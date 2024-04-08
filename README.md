@@ -16,7 +16,7 @@
 | Linux System Administration              | Shell Commands, SSH for remote access, Virtualization, Text Editors, File System Permissions, Package Management, Process Management | Linux shell commands, SSH, Virtualization basics, Text editors, File permissions, Package managers, Process management | Linux System Administration: [Course](https://www.linkedin.com/learning/topics/linux-system-administration) <br> Linux Command Line Basics: [Course](https://www.udemy.com/course/linux-command-line-basics/) | [![GitLicense](https://img.shields.io/badge/Completed--lime.svg)](https://link.com)  |
 | Networking Fundamentals                  | IP Addressing, Ports and Protocols, Network Services, Routing and Switching Basics, Authentication and Authorization, Security Best Practices, Shift-Left Security, Firewalls and Network Security | Networking basics, TCP/IP, DNS, DHCP, Security concepts | Introduction to Networking: [Course](https://www.netacad.com/courses/intro-networking/) <br> Networking Fundamentals: [Course](https://www.pluralsight.com/courses/networking-fundamentals) | [![GitLicense](https://img.shields.io/badge/InProgress--yellow.svg)](https://link.com)  |
 | IBM Applied DevOps Engineering           | Representational State Transfer (REST), Cloud Applications, Openshift, Microservices, Software Testing, Automated Testing, CI/CD, agile, TDD/BDD, Infrastructure As Code, Observability, Telemetry, Monitoring, Docker, Kubernetes, Container, Kanban, Zenhub, Scrum Methodology, Open Web Application Security Project (OWASP), Cloud Computings | DevOps principles & tools   | IBM Applied DevOps Engineering: [Course](https://www.example.com) | [![GitLicense](https://img.shields.io/badge/Completed--lime.svg)](https://link.com)  |
-| Full Stack Development                   | HTML/CSS, JavaScript, React, Node.js, Express, Python, Flask, Django, SQL, Redux, Data Structures and Algorithms, Microservices, Docker, TDD, Object Oriented Programming, SQLAlchemy | Front/Backend Development, Containers w/ Docker, Kubernetes Microservices | IBM Full Stack Developer: [Course](https://www.ibm.com/skills/topics/full-stack-developer) <br> App Academy Open: [Course](https://fullstackopen.com/en/) | [![GitLicense](https://img.shields.io/badge/InProgress--yellow.svg)](https://link.com)  |
+| Full Stack Development                   | HTML/CSS, JavaScript, React, Node.js, Express, Python, Flask, Django, SQL, Redux, Data Structures and Algorithms, Microservices, Docker, TDD, Object Oriented Programming, SQLAlchemy | Front/Backend Development, Containers w/ Docker, Kubernetes Microservices | App Academy Open: [Course](https://fullstackopen.com/en/) | [![GitLicense](https://img.shields.io/badge/InProgress--yellow.svg)](https://link.com)  |
 
 
 
@@ -108,55 +108,47 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Day | Goal                                     | Time Allocated |
 |-----|------------------------------------------|----------------|
 | 1   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Version Control with Git (1 hr)         | 1 hour        |
-|     | Basics of Cloud Computing (1 hr)        | 1 hour         |
+|     | Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (2 hrs)          | 2 hours        |
+|     | Full Stack Development (3 hrs)          | 3 hours        |
 | 2   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Programming with Golang (2 hrs)         | 2 hours        |
-|     | Basics of Cloud Computing (1 hr)        | 1 hour         |
+|     | Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (2 hrs)          | 2 hours        |
+|     | Full Stack Development (3 hrs)          | 3 hours        |
 | 3   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Programming with Golang (2 hrs)         | 2 hours        |
-|     | Basics of Cloud Computing (1 hr)        | 1 hour         |
+|     | Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (2 hrs)          | 2 hours        |
+|     | Full Stack Development (3 hrs)          | 3 hours        |
 | 4   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Programming with Golang (2 hrs)         | 2 hours        |
-|     | Basics of Cloud Computing (1 hr)        | 1 hour         |
+|     | Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (2 hrs)          | 2 hours        |
+|     | Full Stack Development (3 hrs)          | 3 hours        |
 | 5   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Programming with Golang (2 hrs)         | 2 hours        |
-|     | Basics of Cloud Computing (1 hr)        | 1 hour         |
+|     | Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (2 hrs)          | 2 hours        |
+|     | Full Stack Development (3 hrs)          | 3 hours        |
 | 6   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Programming with Golang (2 hrs)         | 2 hours        |
-|     | Basics of Cloud Computing (1 hr)        | 1 hour         |
+|     | Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (2 hrs)          | 2 hours        |
+|     | Full Stack Development (3 hrs)          | 3 hours        |
 | 7   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Programming with Golang (2 hrs)         | 2 hours        |
-|     | Basics of Cloud Computing (1 hr)        | 1 hour         |
+|     | Cloud Computing (1 hr)        | 1 hour         |
 |     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
 |     | Linux System Administration (1 hr)      | 1 hour         |
 |     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (2 hrs)          | 2 hours        |
-
+|     | Full Stack Development (3 hrs)          | 3 hours        |
 
    </td>
     <td>
