@@ -98,43 +98,43 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 |     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
 | 2   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
 |     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
 |     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
 | 3   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
 |     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
 |     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
 | 4   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
 |     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
 |     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
 | 5   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
 |     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
 |     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
 | 6   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
 |     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
 |     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
 | 7   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
 |     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
 |     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
 
    </td>
     <td>
