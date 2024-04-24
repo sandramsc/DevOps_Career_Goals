@@ -73,13 +73,6 @@ Transition into a mid-level or senior Engineer role by focusing on leadership de
 | Cross-functional Collaboration           | Collaborative leadership, Conflict resolution | Cross-functional collaboration strategies | Cross-functional Collaboration: [Course](https://www.linkedin.com/learning/cross-functional-collaboration) <br> Cross-functional Collaboration: [Course](https://hbr.org/2018/11/the-surprising-benefits-of-cross-functional-teams) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)    |
 | Strategic Planning and Execution         | Strategic planning, Execution            | Strategic planning methodologies, Execution frameworks |Strategy Execution: [Course](https://www.coursera.org/learn/strategic-planning-execution) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)    |
 
-### Preparing for Leadership Roles (Year 4 & Year 5)
-- Preparation for Leadership Roles: Prepare for leadership roles by focusing on thought leadership, business acumen, mentorship, platform reliability engineering, cross-functional collaboration, and strategic planning.
-- Mentorship and Coaching: Take on mentorship roles to help junior team members grow and develop their skills, and seek opportunities to coach others in areas where you have expertise.
-- Strategic Initiatives: Lead strategic initiatives within your organization, such as process improvements, technology adoption, or culture-building activities.
-- Networking and Visibility: Build your professional network by attending industry events, participating in conferences, and contributing to thought leadership publications.
-Elevate to a tech lead manager role by honing thought leadership, business acumen, mentorship and coaching skills, platform reliability engineering, cross-functional collaboration, strategic planning and execution.
-
 ## Year 5: Tech Lead Manager
 
 | Goal | Skills | Technologies to Learn | Suggested Courses | Progress |
@@ -87,6 +80,13 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Foster a continuous delivery culture and own large-scale engineering systems | Continuous Delivery, System Design | System Design and Scalability Courses| System Design and Scalability Courses: [Course](https://bytebytego.com/?fpr=javarevisited) <br> Designing Scalable Systems: [Course](https://www.udemy.com/course/designing-scalable-systems/) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)   |
 | Lead teams in developing and operating critical infrastructure | Infrastructure Management, Operations | Infrastructure Management Courses | Infrastructure Management Specialization:  [Course](https://www.coursera.org/specializations/infrastructure-management) <br> Operations Management: [Course](https://www.pluralsight.com/browse/it-operations/operations-management) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)   |
 | Master talent recruitment and team building | Talent Management, Recruitment | Recruitment and Talent Management | Recruiting and Retention: [Course]((https://www.linkedin.com/learning/topics/recruiting)) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)   |
+
+### Preparing for Leadership Roles (Year 4 & Year 5)
+- Preparation for Leadership Roles: Prepare for leadership roles by focusing on thought leadership, business acumen, mentorship, platform reliability engineering, cross-functional collaboration, and strategic planning.
+- Mentorship and Coaching: Take on mentorship roles to help junior team members grow and develop their skills, and seek opportunities to coach others in areas where you have expertise.
+- Strategic Initiatives: Lead strategic initiatives within your organization, such as process improvements, technology adoption, or culture-building activities.
+- Networking and Visibility: Build your professional network by attending industry events, participating in conferences, and contributing to thought leadership publications.
+Elevate to a tech lead manager role by honing thought leadership, business acumen, mentorship and coaching skills, platform reliability engineering, cross-functional collaboration, strategic planning and execution.
 
 
 ## Timetable & Accumulated Skills
