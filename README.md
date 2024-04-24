@@ -18,10 +18,10 @@
 
 
 ### Building a Foundation (Year 1):
-- Focus on Fundamentals: Build a strong foundation in essential DevOps skills such as scripting, version control, cloud computing basics, CI/CD, Linux system administration, and networking fundamentals, and full-stack development.
-- Continuous Learning: Regularly assess your progress and identify areas for improvement. Complete the suggested courses and practice coding regularly to strengthen your skills.
-- Explore Specializations: Consider exploring specializations or certifications in areas like cloud computing or CI/CD to deepen your knowledge.
+- Focus on Fundamentals: Build a strong foundation in essential DevOps skills such as scripting, version control, cloud computing basics, CI/CD, Linux system administration, and networking fundamentals
+- Explore Specializations: Exploring specializations in areas like cloud computing or CI/CD to deepen your knowledge.
 - Full Stack Development: Continue learning FullStack Developement covering HTML, CSS, JavaScript, React, Node.js, Express, Python, Flask, Django, SQL, testing, state management, Webpack, GraphQL, React Native, CI/CD, containers, and relational databases.
+- Continuous Learning: Regularly assess your progress and identify areas for improvement. Complete the suggested courses and practice coding regularly to strengthen your skills.
 Develop a strong foundation in essential DevOps skills such as scripting, version control, cloud computing, CI/CD, Linux system administration, and networking fundamentals.
 
 ## Year 2: Junior Engineer
@@ -35,10 +35,9 @@ Develop a strong foundation in essential DevOps skills such as scripting, versio
 | Service Mesh                             | Service Discovery, Traffic Management     | Istio, Linkerd, Service Mesh concepts          | Istio Documentation: [Course](https://istio.io/latest/docs/learn/) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)     |
 
 ### Advancing Expertise (Year 2)
-- Advanced Skills Acquisition: Advance your expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
+- Advanced Skills Acquisition: In cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
 - Hands-on Experience: Engage in real-world projects or contribute to open-source projects to gain practical experience and apply your skills in a professional setting.
-- Certifications and Advanced Courses: Pursue certifications or advanced courses in areas that align with your career goals, such as AWS Cloud Practitioner Essentials or Kubernetes Administrator.
-- Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
+- Certifications and Advanced Courses: Pursue advanced courses such as AWS Cloud Practitioner Essentials or Kubernetes Administrator.
 Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
 
 ## Year 3: Mid-Level / Senior Engineer
@@ -56,9 +55,9 @@ Advance expertise in cloud computing, CI/CD practices, infrastructure as code, c
 
 ### Transitioning to Leadership (Year 3)
 - Transition to Mid-Level/Senior Role: Focus on transitioning into a mid-level or senior Engineer role by enhancing your leadership skills, technical proficiency, collaboration, and project management capabilities.
-- Leadership Development: Invest in leadership development courses or workshops to hone your leadership skills and prepare for future management roles.
-- Cross-Functional Collaboration: Collaborate with other teams within your organization to understand their workflows and how DevOps practices can support their objectives.
+- Leadership Development: Invest in leadership development and collaboration with cross functional teams in your org. to hone your leadership skills and prepare for future management roles.
 - Continuous Improvement: Continuously seek feedback from peers and mentors, and actively work on improving your skills and addressing any gaps identified.
+- Mentorship and Coaching: Take on mentorship roles to help junior team members grow and develop their skills, and seek opportunities to coach others in areas where you have expertise.
 Transition into a mid-level or senior Engineer role by focusing on leadership development, advanced DevOps practices, technical proficiency in tooling, team collaboration and communication, platform strategy development, process optimization, project management, and stakeholder management.
 
 ## Year 4: Tech Lead Manager
@@ -79,11 +78,10 @@ Transition into a mid-level or senior Engineer role by focusing on leadership de
 | Lead teams in developing and operating critical infrastructure | Infrastructure Management, Operations | Infrastructure Management Courses | Infrastructure Management Specialization:  [Course](https://www.coursera.org/specializations/infrastructure-management) <br> Operations Management: [Course](https://www.pluralsight.com/browse/it-operations/operations-management) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)  |
 
 ### Preparing for Leadership Roles (Year 4 & Year 5)
-- Preparation for Leadership Roles: Prepare for leadership roles by focusing on thought leadership, business acumen, mentorship, platform reliability engineering, cross-functional collaboration, and strategic planning.
-- Mentorship and Coaching: Take on mentorship roles to help junior team members grow and develop their skills, and seek opportunities to coach others in areas where you have expertise.
+- Preparation for Leadership Roles: Prepare for leadership roles by focusing on thought leadership, business acumen, mentorship, cross-functional collaboration, and strategic planning.
 - Strategic Initiatives: Lead strategic initiatives within your organization, such as process improvements, technology adoption, or culture-building activities.
-- Networking and Visibility: Build your professional network by attending industry events, participating in conferences, and contributing to thought leadership publications.
-Elevate to a tech lead manager role by honing thought leadership, business acumen, mentorship and coaching skills, platform reliability engineering, cross-functional collaboration, strategic planning and execution.
+- Networking and Visibility: Build your professional network by continuing to attend industry events, participating in conferences, and contributing to thought leadership publications.
+Elevate to a tech lead manager role by honing thought leadership, business acumen, mentorship and coaching skills, cross-functional collaboration, strategic planning and execution.
 
 
 ## Timetable & Accumulated Skills
