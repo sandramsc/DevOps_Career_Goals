@@ -77,7 +77,7 @@ Transition into a mid-level or senior Engineer role by focusing on leadership de
 | Lead teams in developing and operating critical infrastructure | Infrastructure Management, Operations | Infrastructure Management Courses | Infrastructure Management Specialization:  [Course](https://www.coursera.org/specializations/infrastructure-management) <br> Operations Management: [Course](https://www.pluralsight.com/browse/it-operations/operations-management) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)  |
 
 ### Preparing for Leadership Roles (Year 4 & Year 5)
-- Preparation for Leadership Roles: Prepare for leadership roles by focusing on thought leadership, business acumen, mentorship, cross-functional collaboration, and strategic planning.
+- Preparation for Leadership Roles: Prepare for leadership roles by focusing on thought leadership, business acumen, cross-functional collaboration, and strategic planning.
 - Strategic Initiatives: Lead strategic initiatives within your organization, such as process improvements, technology adoption, or culture-building activities.
 - Networking and Visibility: Build your professional network by continuing to attend industry events, participating in conferences, and contributing to thought leadership publications.
 Elevate to a tech lead manager role by honing thought leadership, business acumen, mentorship and coaching skills, cross-functional collaboration, strategic planning and execution.
