@@ -13,14 +13,14 @@
 | Linux System Administration              | Shell Commands, SSH for remote access, Virtualization, Text Editors, File System Permissions, Package Management, Process Management | Linux shell commands, SSH, Virtualization basics, Text editors, File permissions, Package managers, Process management | Linux System Administration: [Course](https://www.linkedin.com/learning/topics/linux-system-administration) <br> Linux Command Line Basics: [Course](https://www.udemy.com/course/linux-command-line-basics/) | [![GitLicense](https://img.shields.io/badge/Completed--lime.svg)](https://link.com)  |
 | Computer Networking                  | IP Addressing, Ports and Protocols, Network Services, Routing and Switching Basics, Authentication and Authorization, Security Best Practices, Shift-Left Security, Firewalls and Network Security | Networking basics, TCP/IP, DNS, DHCP, Security concepts |  Computer Networking: [Course](https://www.youtube.com/watch?v=qiQR5rTSshw) | [![GitLicense](https://img.shields.io/badge/Started--yellow.svg)](https://link.com)  |
 | IBM Applied DevOps Engineering           | Representational State Transfer (REST), Cloud Applications, Openshift, Microservices, Software Testing, Automated Testing, CI/CD, agile, TDD/BDD, Infrastructure As Code, Observability, Telemetry, Monitoring, Docker, Kubernetes, Container, Kanban, Zenhub, Scrum Methodology, Open Web Application Security Project (OWASP), Cloud Computings | DevOps principles & tools   | IBM Applied DevOps Engineering: [Course](https://www.example.com) | [![GitLicense](https://img.shields.io/badge/Completed--lime.svg)](https://link.com)  |
-| Sills of intrest (may or may not be DevOps centric)   | Node.js, Flask, SQL, Servers & APIs, HTML/CSS, Microservices, Docker, TDD, SQLAlchemy | Sills of intrest (may or may not be DevOps centric)   | Road to Full-Stack w. a/A: [Repo.](https://github.com/sandramsc/Road-To-FullStack) | [![GitLicense](https://img.shields.io/badge/Started--yellow.svg)](https://link.com)  |
+| Road to DevOps   | Node.js, Flask, SQL, Servers & APIs, HTML/CSS, Microservices, Docker, TDD, SQLAlchemy, Python | Road to DevOps   | Road to DevOps: [Repo.](https://github.com/sandramsc/Road-To-FullStack) | [![GitLicense](https://img.shields.io/badge/Started--yellow.svg)](https://link.com)  |
 
 
 
 ### Building a Foundation (Year 1):
 - Focus on Fundamentals: Build a strong foundation in essential DevOps skills such as scripting, version control, cloud computing basics, CI/CD, Linux system administration, and networking fundamentals
 - Explore Specializations: Exploring specializations in areas like cloud computing or CI/CD to deepen your knowledge.
-- Skills of interest (may or may not be DevOps centric): Continue learning Node.js, Flask, SQL, Servers & APIs, HTML/CSS, Microservices, Docker, TDD, SQLAlchemy.
+- Road to DevOps: Continue learning Node.js, Flask, SQL, Servers & APIs, HTML/CSS, Microservices, Docker, TDD, SQLAlchemy, CI/CD.
 - Continuous Learning: Regularly assess your progress and identify areas for improvement. Complete the suggested courses and practice coding regularly to strengthen your skills.
 Develop a strong foundation in essential DevOps skills such as scripting, version control, cloud computing, CI/CD, Linux system administration, and networking fundamentals.
 
