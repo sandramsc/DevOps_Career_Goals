@@ -89,7 +89,7 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Lead teams in developing and operating critical infrastructure | Infrastructure Management, Operations | Infrastructure Management Courses | Infrastructure Management Specialization:  [Course](https://www.coursera.org/specializations/infrastructure-management) <br> Operations Management: [Course](https://www.pluralsight.com/browse/it-operations/operations-management) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)   |
 | Enhance verbal and written communication skills for articulating technical concepts | Communication, Technical Writing | Communication Training | Toast Masters: [Course]((https://www.toastmasters.org/)) <br> Effective Communication Skills Specialization: [Course](https://www.coursera.org/specializations/communication-skills) <br> Technical Writing Essentials: [Course](https://www.linkedin.com/learning/technical-writing-essential-training) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)   |
 | Master talent recruitment and team building | Talent Management, Recruitment | Recruitment and Talent Management | Recruiting and Retention: [Course]((https://www.linkedin.com/learning/topics/recruiting)) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)   |
-| Develop inspiring leadership qualities with a customer-centric focus | Leadership, Customer Orientation | Leadership and Management Articles <br> Customer-Centric Leadership | Leadership Development for  <br> Customer-Centric  | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)   |
+
 
 ## Timetable & Accumulated Skills
 
