@@ -147,14 +147,14 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Golang                      | Time Management                           |
 | Kubernetes                  | Adaptability                              |
 | Docker                      | Continuous Learning                       |
-| Git                         | IT Project Management                        |
+| Git                         |  Cross-functional Collaboration                     |
 | Network Services            | Strategic Planning and Execution          |
-| VPC                         | Technical Skills  |
-| EC2                         | Cross-functional Collaboration            |
-| S3                          | Thought Leadership                        |
-| RDS                         | Effective Communication                   |
-| IAM                         | Stakeholder Management                                          |
-| Lambda                      | Mentorship and Coaching                                           |
+| VPC                         | Thought Leadership  |
+| EC2                         | Effective Communication           |
+| S3                          |  Stakeholder Management                        |
+| RDS                         |                   |
+| IAM                         |                                           |
+| Lambda                      |  |
 | Route 53                    |                                           |
 | CloudWatch                  |                                           |
 | EKS                         |                                           |
@@ -163,21 +163,9 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Jenkins                     |                                           |
 | GitOps                      |                                           |
 | Prometheus                  |                                           |
-| React                       |                                           |
-| Redux                       |                                           |
-| JavaScript                  |                                           |
-| HTML/CSS                    |                                           |
-| Node.js                     |                                           |
-| Express                     |                                           |
-| Python                      |                                           |
-| Flask                       |                                           |
-| Django                      |                                           |
-| SQL                         |                                           |
+| PostgreSQL                         |                                           |
 | Microservices               |                                           |
-| Data Structures and Algorithms |                                        |
 | TDD                         |                                           |
-| Object Oriented Programming|                                           |
-| SQLAlchemy                  |                                           |
 
   </tr>
 </table>
