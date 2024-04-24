@@ -8,7 +8,6 @@
 | Goal                                     | Skills                                      | Technologies to Learn                    | Suggested Courses                                          | Progress                                                           |
 |------------------------------------------|---------------------------------------------|------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------|
 | Python                               | Python Scripting, Data Structure, Python Programming, SQL , Sqlite, Data Visualization, Data Analysis, JSON, XML                                    | Python Scripting for DevOps & Python programming    | Python for DevOps: [Course](https://www.youtube.com/watch?v=H21U4jX_SLQ&list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv) , Python for Everybody: [Course](https://www.coursera.org/specializations/python) | [![GitLicense](https://img.shields.io/badge/Started--yellow.svg)](https://link.com)  |
-| Version Control with Git                 | Git basics                                  | Git commands, Version control concepts  | Version Control with Git: [Course](https://www.udacity.com/course/version-control-with-git--ud123) <br> Learn Git: [Course](https://www.codecademy.com/learn/learn-git) | [![GitLicense](https://img.shields.io/badge/Completed--lime.svg)](https://link.com)  |
 | Foundations of Cloud Computing                | Cloud fundamentals                          | Cloud service providers - AWS | AWS Cloud Practitioner Essentials: [Course](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/) <br> AWS Zero to Hero: [Course](https://www.youtube.com/watch?v=GkKNxyLp_V0&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze) <br> Intro. to Cloud Computing: [Course](https://www.coursera.org/learn/introduction-to-cloud?specialization=ibm-full-stack-cloud-developer&utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_coursera_ftcof_career-academy_arte_march_24_dr_geo-multi-set3_pmax_gads_lg-all&campaignid=21103949440&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwiMmwBhDmARIsABeQ7xSmDrctnEHeUOGWMTvnC-UQiPDCM1bhEmv72MttOHUHv9Pg9UhmVikaAsJhEALw_wcB) | [![GitLicense](https://img.shields.io/badge/Started--yellow.svg)](https://link.com)  |
 | Fundamentals of CI/CD                    | Continuous Integration/Continuous Deployment basics | CI/CD pipelines, Automation tools | CI/CD with Jenkins: [Course](https://www.pluralsight.com/courses/continuous-integration-delivery-jenkins) <br> CI/CD Pipelines with Jenkins: [Course](https://www.udemy.com/course/cicd-pipeline/) | [![GitLicense](https://img.shields.io/badge/Started--yellow.svg)](https://link.com)  |
 | Linux System Administration              | Shell Commands, SSH for remote access, Virtualization, Text Editors, File System Permissions, Package Management, Process Management | Linux shell commands, SSH, Virtualization basics, Text editors, File permissions, Package managers, Process management | Linux System Administration: [Course](https://www.linkedin.com/learning/topics/linux-system-administration) <br> Linux Command Line Basics: [Course](https://www.udemy.com/course/linux-command-line-basics/) | [![GitLicense](https://img.shields.io/badge/Completed--lime.svg)](https://link.com)  |
@@ -53,7 +52,6 @@ Advance expertise in cloud computing, CI/CD practices, infrastructure as code, c
 | PostgreSQL         | Database (DB) Design, SQL, Database(DBSM)             |  Database design to database architecture and deployment.    | PostgreSQL for Everybody Specialization: [Course](https://www.google.com/aclk?sa=l&ai=DChcSEwjb_oL_hbCFAxXMlYMHHbcTCgoYABAAGgJlZg&gclid=Cj0KCQjwiMmwBhDmARIsABeQ7xRDVsP3iMRg5F7s1MRw49nUlrDqpUUsV1Fu6M-lKB71Ir_QReyDoi0aAu_UEALw_wcB&sig=AOD64_2An7PHIFU60EgGhRaO4vIMSVOXGw&q&adurl&ved=2ahUKEwiRr_z-hbCFAxX3gv0HHfcwCXQQ0Qx6BAgKEAE) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)     |
 | Golang programming                      | Golang programming                          | Golang                                   | Golang Basics: [Course](https://www.udemy.com/course/learn-how-to-code/) <br> Google Golang programming: [Course](https://www.google.com/aclk?sa=l&ai=DChcSEwj73I-Zx7CFAxXtloMHHV3HAM8YABAAGgJlZg&gclid=Cj0KCQjwiMmwBhDmARIsABeQ7xRvCto4c7lbsm1qJZt25-gb7tXMaA6ZDsCvs5uOCVblsjznSUAr1kAaAsacEALw_wcB&sig=AOD64_24-aMPC8c9YfKBuRk48_j4YjPDCw&q&adurl&ved=2ahUKEwiiioqZx7CFAxXRy7sIHciyC3YQ0Qx6BAgBEAE) <br> Golang Crash Course: [Course](https://www.youtube.com/watch?v=SqrbIlUwR0U&pp=ygUPZ29sYW5nIHRyYXZlcnN5) <br> Build projects w/ Go: [Course](https://www.youtube.com/watch?v=jFfo23yIWac)| [![GitLicense](https://img.shields.io/badge/Started--yellow.svg)](https://link.com)  |
 | Team Collaboration and Communication     | Collaborative skills, Communication     | Effective communication techniques, Team collaboration | Interpersonal Communication Skills: [Course](https://www.coursera.org/learn/interpersonal-communication) <br> Effective Collaboration: [Course](https://www.linkedin.com/learning/effective-collaboration) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)     |
-| Platform Strategy Development            | Strategic planning, Platform development | Platform strategy frameworks       | Platform Revolution: [Course]([https://hbr.org/2016/04/what-is-platform-strategy](https://coursesity.com/course-detail/platform-strategy-for-business)) <br> Strategic Management: [Course](https://www.coursera.org/learn/strategic-management) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)     |
 | Process Optimization                     | Process improvement techniques           | Process optimization frameworks  | Process Improvement Techniques: [Course](https://www.lean.org/WhatIsLean/Principles.cfm) <br> Lean Six Sigma: [Course](https://www.coursera.org/specializations/lean-six-sigma-green-belt) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)    |
 | Project Management                      | Project management skills, Prioritization | Project management, Agile methodologies           | IT Project Management: [Course](https://www.coursera.org/professional-certificates/ibm-it-project-manager) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)    |
 | Stakeholder Management                   | Stakeholder engagement, Relationship management | Stakeholder management techniques, Relationship-building | Stakeholder Management: [Course]([https://www.linkedin.com/learning/stakeholder-management-fundamentals](https://www.coursera.org/learn/stakeholder-management)) <br> Stakeholder Engagement: [Course](https://www.pmi.org/certifications/practitioner-acp/agile-stakeholder-engagement) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)    |
@@ -73,7 +71,6 @@ Transition into a mid-level or senior Engineer role by focusing on leadership de
 | Thought Leadership                       | Thought leadership skills                 |Thought leadership frameworks, Industry trends | Becoming a Thought Leader: [Course](https://hbr.org/2022/03/becoming-a-thought-leader) <br> Thought Leadership Strategies: [Course](https://www.linkedin.com/learning/thought-leadership-strategies) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)    |
 | Business Acumen                          | Business strategy, Industry knowledge     | Business strategy frameworks, Industry research | Business Strategy Specialization: [Course](https://www.coursera.org/specializations/business-strategy) <br> Business Acumen Fundamentals: [Course](https://www.udemy.com/course/business-acumen-fundamentals/) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)    |
 | Mentorship and Coaching                  | Mentorship skills, Coaching techniques    | Mentorship courses  | Mentorship and Leadership: [Course](https://www.coursera.org/specializations/mentorship-and-leadership) <br> Coaching for Performance: [Course](https://www.linkedin.com/learning/coaching-for-performance) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)    |
-| Reliability Engineering         | Site Reliability Engineering (SRE)        | SRE practices, Reliability engineering principles | Site Reliability Engineering: [Course](https://learning.oreilly.com/library/view/site-reliability-engineering/9781491929117/) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)    |
 | Cross-functional Collaboration           | Collaborative leadership, Conflict resolution | Cross-functional collaboration strategies | Cross-functional Collaboration: [Course](https://www.linkedin.com/learning/cross-functional-collaboration) <br> Cross-functional Collaboration: [Course](https://hbr.org/2018/11/the-surprising-benefits-of-cross-functional-teams) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)    |
 | Strategic Planning and Execution         | Strategic planning, Execution            | Strategic planning methodologies, Execution frameworks |Strategy Execution: [Course](https://www.coursera.org/learn/strategic-planning-execution) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)    |
 
@@ -106,48 +103,48 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 
 | Day | Goal                                     | Time Allocated |
 |-----|------------------------------------------|----------------|
-| 1   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Cloud Computing (1 hr)        | 1 hour         |
-|     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
-|     | Linux System Administration (1 hr)      | 1 hour         |
-|     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (3 hrs)          | 3 hours        |
-| 2   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Cloud Computing (1 hr)        | 1 hour         |
-|     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
-|     | Linux System Administration (1 hr)      | 1 hour         |
-|     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (3 hrs)          | 3 hours        |
-| 3   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Cloud Computing (1 hr)        | 1 hour         |
-|     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
-|     | Linux System Administration (1 hr)      | 1 hour         |
-|     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (3 hrs)          | 3 hours        |
-| 4   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Cloud Computing (1 hr)        | 1 hour         |
-|     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
-|     | Linux System Administration (1 hr)      | 1 hour         |
-|     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (3 hrs)          | 3 hours        |
-| 5   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Cloud Computing (1 hr)        | 1 hour         |
-|     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
-|     | Linux System Administration (1 hr)      | 1 hour         |
-|     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (3 hrs)          | 3 hours        |
-| 6   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Cloud Computing (1 hr)        | 1 hour         |
-|     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
-|     | Linux System Administration (1 hr)      | 1 hour         |
-|     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (3 hrs)          | 3 hours        |
-| 7   | Scripting with Python (1 hr)            | 1 hour         |
-|     | Cloud Computing (1 hr)        | 1 hour         |
-|     | Fundamentals of CI/CD (1 hr)            | 1 hour         |
-|     | Linux System Administration (1 hr)      | 1 hour         |
-|     | Networking Fundamentals (1 hr)          | 1 hour         |
-|     | Full Stack Development (3 hrs)          | 3 hours        |
+| 1   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
+|     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
+|     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
+|     | Read tech blog (~30 min)      | 30 min         |
+|     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
+|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+| 2   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
+|     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
+|     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
+|     | Read tech blog (~30 min)      | 30 min         |
+|     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
+|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+| 3   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
+|     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
+|     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
+|     | Read tech blog (~30 min)      | 30 min         |
+|     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
+|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+| 4   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
+|     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
+|     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
+|     | Read tech blog (~30 min)      | 30 min         |
+|     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
+|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+| 5   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
+|     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
+|     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
+|     | Read tech blog (~30 min)      | 30 min         |
+|     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
+|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+| 6   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
+|     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
+|     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
+|     | Read tech blog (~30 min)      | 30 min         |
+|     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
+|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
+| 7   | DevOps zero-to-hero practice (~2 hr)            | 2 hour         |
+|     | DevOps roadmap [learn concepts i.e Networking] (~1 hr)        | 1 hour         |
+|     | a/A Full-Stack curriculum (~4 hrs)            | 4 hours         |
+|     | Read tech blog (~30 min)      | 30 min         |
+|     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
+|     | Contribute to FOSS (~2 hrs)          | 2 hours        |
 
    </td>
     <td>
@@ -161,15 +158,13 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 | Kubernetes                  | Adaptability                              |
 | Docker                      | Continuous Learning                       |
 | Git                         | IT Project Management                        |
-| IP Addressing               | Stakeholder Management                    |
-| Ports and Protocols         | Mentorship and Coaching                   |
 | Network Services            | Strategic Planning and Execution          |
 | VPC                         | Technical Skills  |
 | EC2                         | Cross-functional Collaboration            |
 | S3                          | Thought Leadership                        |
 | RDS                         | Effective Communication                   |
-| IAM                         |                                           |
-| Lambda                      |                                           |
+| IAM                         | Stakeholder Management                                          |
+| Lambda                      | Mentorship and Coaching                                           |
 | Route 53                    |                                           |
 | CloudWatch                  |                                           |
 | EKS                         |                                           |
