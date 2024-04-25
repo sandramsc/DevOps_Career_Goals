@@ -98,7 +98,7 @@ Elevate to a tech lead manager role by honing thought leadership, business acume
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
 |     | Contribute to FOSS (~3 hrs)          | 3 hours        |
-| 3   | Hands on labs [DevOps zero-to-hero] (~2 hr)            | 2 hours         |
+| 2   | Hands on labs [DevOps zero-to-hero] (~2 hr)            | 2 hours         |
 |     | Servers & APIs (~1 hr)        | 1 hour         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
