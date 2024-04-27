@@ -39,7 +39,7 @@ Develop a strong foundation in essential DevOps skills such as scripting, versio
 ### Advancing Expertise (Year 2)
 - Advanced Skills Acquisition: In cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
 - Hands-on Experience: Engage in real-world projects or contribute to open-source projects to gain practical experience and apply your skills in a professional setting.
-- Certifications and Advanced Courses: Pursue advanced courses such as AWS Cloud Practitioner Essentials or Kubernetes Administrator.
+- Certifications and Advanced Courses: Pursue advanced courses such as AWS Cloud Practitioner Essentials and/or Kubernetes Administrator.
 Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
 
 ## Year 3: Mid-Level / Senior Engineer
