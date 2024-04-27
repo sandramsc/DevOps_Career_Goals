@@ -54,7 +54,7 @@
 
 ### Transitioning to Leadership (Year 3)
 - Continuous Improvement: Continuously seek feedback from peers and mentors, and actively work on improving your skills and addressing any gaps identified.
-- Mentorship and Coaching: Take on mentorship roles to help junior team members grow and develop their skills, and seek opportunities to coach others in areas where you have expertise.\
+- Mentorship: Take on roles to aid junior team members grow and develop their skills, and seek opportunities to coach others in areas where you have expertise.
   
 ##### Transition into a mid-level or senior Engineer role by focusing on leadership development, advanced DevOps practices, technical proficiency in tooling, team collaboration and communication, project management.
 
@@ -76,7 +76,7 @@
 - Strategic Initiatives: Lead strategic initiatives within your organization, such as process improvements, technology adoption, or culture-building activities.
 - Networking and Visibility: Build your professional network by continuing to attend industry events, participating in conferences, and contributing to thought leadership publications.
   
-##### Elevate to a tech lead manager role by honing thought leadership, business acumen, mentorship and coaching skills, cross-functional collaboration, strategic planning and execution.
+##### Elevate to a tech lead manager role by honing thought leadership, business acumen, mentorship skills, cross-functional collaboration, strategic planning and execution.
 
 
 ## Timetable & Accumulated Skills
