@@ -38,9 +38,9 @@
 | Service Mesh                             | Service Discovery, Traffic Management     | Istio, Linkerd, Service Mesh concepts          | Istio Documentation: [Course](https://istio.io/latest/docs/learn/) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)     |
 
 ### Advancing Expertise (Year 2)
-- Advanced Skills Acquisition: In cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
-- Hands-on Experience: Engage in real-world projects or contribute to open-source projects to gain practical experience and apply your skills in a professional setting.
-- Certifications and Advanced Courses: Pursue advanced courses such as AWS Cloud Practitioner Essentials and/or Kubernetes Administrator.
+- Advanced Skills Acquisition: In cloud computing, CI/CD practices, Infrastructure as Code, containerization, monitoring, GitOps, and service mesh.
+- Hands-on Experience: Continue contribute to open-source projects to gain practical experience and apply your skills in a professional setting.
+- Certifications and Advanced Courses: Pursue advanced courses such as AWS Cloud Practitioner Essentials and/or [Docker Certified Associate](https://www.udemy.com/course/docker-certified-associate/).
   
 ##### Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
 
@@ -53,7 +53,6 @@
 | Advanced Cloud Computing                 | Cloud architecture, Deployment strategies  | Advanced cloud services, Multi-cloud setups    | AWS Certified DevOps Engineer: [Course](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aws.amazon.com/certification/certified-devops-engineer-professional/&ved=2ahUKEwjBqMHi_q-FAxVOg_0HHYiQAJcQFnoECCMQAQ&usg=AOvVaw0u4zzn1odfv8POKYoZguq_)  | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)    |
 
 ### Transitioning to Leadership (Year 3)
-- Transition to Mid-Level/Senior Role: Focus on transitioning into a mid-level or senior Engineer role by enhancing your leadership skills, technical proficiency, collaboration, and project management capabilities.
 - Continuous Improvement: Continuously seek feedback from peers and mentors, and actively work on improving your skills and addressing any gaps identified.
 - Mentorship and Coaching: Take on mentorship roles to help junior team members grow and develop their skills, and seek opportunities to coach others in areas where you have expertise.\
   
