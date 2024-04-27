@@ -22,7 +22,8 @@
 - Focus on Fundamentals: Build a strong foundation in essential DevOps skills such as scripting, version control, cloud computing basics, CI/CD, Linux system administration, and networking fundamentals
 - Explore Specializations: Exploring specializations in areas like cloud computing or CI/CD to deepen your knowledge.
 - Continuous Learning: Regularly assess your progress and identify areas for improvement. Complete the suggested courses and practice coding regularly to strengthen your skills.
-Develop a strong foundation in essential DevOps skills such as scripting, version control, cloud computing, CI/CD, Linux system administration, and networking fundamentals.
+
+##### Develop a strong foundation in essential DevOps skills such as scripting, version control, cloud computing, CI/CD, Linux system administration, and networking fundamentals.
 
 ## Year 2: Junior Engineer
 
@@ -40,7 +41,8 @@ Develop a strong foundation in essential DevOps skills such as scripting, versio
 - Advanced Skills Acquisition: In cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
 - Hands-on Experience: Engage in real-world projects or contribute to open-source projects to gain practical experience and apply your skills in a professional setting.
 - Certifications and Advanced Courses: Pursue advanced courses such as AWS Cloud Practitioner Essentials and/or Kubernetes Administrator.
-Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
+  
+##### Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
 
 ## Year 3: Mid-Level / Senior Engineer
 
@@ -52,10 +54,10 @@ Advance expertise in cloud computing, CI/CD practices, infrastructure as code, c
 
 ### Transitioning to Leadership (Year 3)
 - Transition to Mid-Level/Senior Role: Focus on transitioning into a mid-level or senior Engineer role by enhancing your leadership skills, technical proficiency, collaboration, and project management capabilities.
-- Leadership Development: Invest in leadership development and collaboration with cross functional teams in your org. to hone your leadership skills and prepare for future management roles.
 - Continuous Improvement: Continuously seek feedback from peers and mentors, and actively work on improving your skills and addressing any gaps identified.
-- Mentorship and Coaching: Take on mentorship roles to help junior team members grow and develop their skills, and seek opportunities to coach others in areas where you have expertise.
-Transition into a mid-level or senior Engineer role by focusing on leadership development, advanced DevOps practices, technical proficiency in tooling, team collaboration and communication, platform strategy development, process optimization, project management, and stakeholder management.
+- Mentorship and Coaching: Take on mentorship roles to help junior team members grow and develop their skills, and seek opportunities to coach others in areas where you have expertise.\
+  
+##### Transition into a mid-level or senior Engineer role by focusing on leadership development, advanced DevOps practices, technical proficiency in tooling, team collaboration and communication, platform strategy development, process optimization, project management, and stakeholder management.
 
 ## Year 4: Tech Lead Manager
 
@@ -74,7 +76,8 @@ Transition into a mid-level or senior Engineer role by focusing on leadership de
 - Preparation for Leadership Roles: Prepare for leadership roles by focusing on thought leadership, business acumen, cross-functional collaboration.
 - Strategic Initiatives: Lead strategic initiatives within your organization, such as process improvements, technology adoption, or culture-building activities.
 - Networking and Visibility: Build your professional network by continuing to attend industry events, participating in conferences, and contributing to thought leadership publications.
-Elevate to a tech lead manager role by honing thought leadership, business acumen, mentorship and coaching skills, cross-functional collaboration, strategic planning and execution.
+  
+##### Elevate to a tech lead manager role by honing thought leadership, business acumen, mentorship and coaching skills, cross-functional collaboration, strategic planning and execution.
 
 
 ## Timetable & Accumulated Skills
