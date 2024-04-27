@@ -68,7 +68,6 @@ Transition into a mid-level or senior Engineer role by focusing on leadership de
 
 | Goal | Skills | Technologies to Learn | Suggested Courses | Progress |
 |------|--------|-----------------------|-------------------|----------|
-| Foster a continuous delivery culture and own large-scale engineering systems | Continuous Delivery, System Design | System Design and Scalability Courses|  Designing Scalable Systems: [Course](https://www.udemy.com/course/designing-scalable-systems/) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)   |
 | Lead teams in developing and operating critical infrastructure | Infrastructure Management, Operations | Infrastructure Management Courses | Infrastructure Management Specialization:  [Course](https://www.coursera.org/specializations/infrastructure-management) <br> Operations Management: [Course](https://www.pluralsight.com/browse/it-operations/operations-management) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)  |
 
 ### Preparing for Leadership Roles (Year 4 & Year 5)
