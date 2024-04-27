@@ -146,8 +146,8 @@
 | RDS                         |                   |
 | IAM                         |                                           |
 | Lambda                      |  |
-| Route 53                    |                                           |
-| CloudWatch                  |                                           |
+| CloudBuild & CloudWatch                    |                                           |
+| EBS                  |                                           |
 | EKS                         |                                           |
 | Terraform                   |                                           |
 | Ansible                     |                                           |
