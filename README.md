@@ -42,7 +42,7 @@
 - Hands-on Experience: Continue contribute to open-source projects to gain practical experience and apply your skills in a professional setting.
 - Certifications and Advanced Courses: Pursue advanced courses such as AWS Cloud Practitioner Essentials and/or [Docker Certified Associate](https://www.udemy.com/course/docker-certified-associate/).
   
-##### Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, advanced scripting/programming, advanced networking, monitoring, GitOps, and service mesh.
+##### Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, continue scripting scripting (python), monitoring, GitOps, and service mesh.
 
 ## Year 3: Mid-Level / Senior Engineer
 
