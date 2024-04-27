@@ -56,7 +56,7 @@
 - Continuous Improvement: Continuously seek feedback from peers and mentors, and actively work on improving your skills and addressing any gaps identified.
 - Mentorship and Coaching: Take on mentorship roles to help junior team members grow and develop their skills, and seek opportunities to coach others in areas where you have expertise.\
   
-##### Transition into a mid-level or senior Engineer role by focusing on leadership development, advanced DevOps practices, technical proficiency in tooling, team collaboration and communication, platform strategy development, process optimization, project management, and stakeholder management.
+##### Transition into a mid-level or senior Engineer role by focusing on leadership development, advanced DevOps practices, technical proficiency in tooling, team collaboration and communication, project management.
 
 ## Year 4: Tech Lead Manager
 
