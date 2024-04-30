@@ -42,7 +42,7 @@
 ### Advancing Expertise (Year 2)
 - Advanced Skills Acquisition: In cloud computing, CI/CD practices, Infrastructure as Code, containerization, monitoring, GitOps, and service mesh.
 - Hands-on Experience: Continue contribute to open-source projects to gain practical experience and apply your skills in a professional setting.
-- Advanced Courses: Pursue advanced courses such as AWS DevOps Engineer (Coursera corse prep content good to practice with)
+- Advanced Courses: Pursue advanced courses such as AWS DevOps Engineer (Coursera course prep content good to practice with)
   
 ##### Advance expertise in cloud computing, CI/CD practices, infrastructure as code, containerization, continue scripting scripting (python), monitoring, GitOps, and service mesh.
 
