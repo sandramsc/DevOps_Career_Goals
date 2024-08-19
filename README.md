@@ -136,7 +136,6 @@
 | SDLC                        | Leadership Development                    |
 | Linux                       | Team Collaboration      |
 | Python Scripting            | Problem-Solving                           |
-|Rust?                      | Time Management                           |
 | Kubernetes                  | Adaptability                              |
 | Docker                      | Continuous Learning                       |
 | Git                         |  Cross-functional Collaboration                     |
@@ -155,7 +154,7 @@
 | Jenkins                     |                                           |
 | GitOps                      |                                           |
 | Prometheus                  |                                           |
-| PostgreSQL                         |                                           |
+| Oracle                         |                                           |
 | Microservices               |                                           |
 | unittests                         |                                           |
 
