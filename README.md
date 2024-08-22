@@ -91,32 +91,26 @@
 | Day | Goal                                     | Time Allocated |
 |-----|------------------------------------------|----------------|
 | 1   | Hands on labs - DevOps (~2 hr)            | 2 hours         |
-
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
 |     | Contribute to FOSS (~3 hrs)          | 3 hours        |
 | 2   | Hands on labs - DevOps (~2 hr)            | 2 hours         |
-
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
 |     | Contribute to FOSS (~3 hrs)          | 3 hours        |
 | 3   | Hands on labs - DevOps (~2 hr)            | 2 hours         |
-
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
 |     | Contribute to FOSS (~3 hrs)          | 3 hours        |
 | 4   | Hands on labs - DevOps (~2 hr)            | 2 hours         |
-
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
 |     | Contribute to FOSS (~3 hrs)          | 3 hours        |
 | 5   | Hands on labs - DevOps (~2 hr)            | 2 hours        |
-
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
 |     | Contribute to FOSS (~3 hrs)          | 3 hours        |
 | 6   | Hands on labs - DevOps (~2 hr)            | 2 hours         |
-
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
 |     | Contribute to FOSS (~3 hrs)          | 3 hours        |
