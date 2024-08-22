@@ -78,7 +78,7 @@
 ##### Elevate to a tech lead manager role by honing thought leadership, business acumen, mentorship skills, cross-functional collaboration, strategic planning and execution.
 
 
-## Timetable & Accumulated Skills
+## Timetable (example) & Accumulated Skills
 
 <table>
   <tr>
@@ -93,32 +93,32 @@
 | 1   | Hands on labs - DevOps (~2 hr)            | 2 hours         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
+|     | Contribute to FOSS (~2hrs)          | 2 hours        |
 | 2   | Hands on labs - DevOps (~2 hr)            | 2 hours         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
+|     | Contribute to FOSS (~2hrs)          | 2 hours        |
 | 3   | Hands on labs - DevOps (~2 hr)            | 2 hours         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
+|     | Contribute to FOSS (~2hrs)          | 2 hours        |
 | 4   | Hands on labs - DevOps (~2 hr)            | 2 hours         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
+|     | Contribute to FOSS (~2hrs)          | 2 hours        |
 | 5   | Hands on labs - DevOps (~2 hr)            | 2 hours        |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
+|     | Contribute to FOSS (~2hrs)          | 2 hours        |
 | 6   | Hands on labs - DevOps (~2 hr)            | 2 hours         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
+|     | Contribute to FOSS (~2hrs)          | 2 hours        |
 |  7    | Hands on labs - DevOps (~2 hr)            | 2 hours         |
 |    | Servers & APIs     (~1 hr)        | 1 hour         |
 |     | Read tech blog (~30 min)      | 30 min         |
 |     | Work on personal project [i.e BargoDrip] (~1 hr)          | 1 hour         |
-|     | Contribute to FOSS (~3 hrs)          | 3 hours        |
+|     | Contribute to FOSS (~2hrs)          | 2 hours        |
 
    </td>
     <td>
