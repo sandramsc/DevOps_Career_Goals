@@ -145,7 +145,7 @@
 | Jenkins                     |                                           |
 | GitOps                      |                                           |
 | Prometheus                  |                                           |
-| Oracle                         |                                           |
+| SQL                         |                                           |
 | Microservices               |                                           |
 | unittests                         |                                           |
 
