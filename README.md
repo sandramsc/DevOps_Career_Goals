@@ -34,7 +34,7 @@
 | Container Orchestration        | Kubernetes          | Kubernetes   | DevOps w/ Kubernetes: [Course](https://devopswithkubernetes.com/)| [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)     |
 | Prometheus and Grafana                   | Monitoring and Observability             | Prometheus, Grafana, Monitoring best practices | Grafana Tutorials: [Course](https://grafana.com/docs/grafana/latest/getting-started/) <br> Prometheus Documentation: [Course](https://prometheus.io/docs/prometheus/latest/getting_started/) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)     |
 | GitOps                         |  CI/CD, IaC                           | ArgoCD     | ArgoCD Documentation: [Course](https://argo-cd.readthedocs.io/en/stable/getting_started/) <br> GitOps Guide: [Best Practices](https://www.gitops.tech/) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)     |
-| Service Mesh                             | Service Discovery, Traffic Management     | Istio, Linkerd, Service Mesh concepts          | Istio Documentation: [Course](https://istio.io/latest/docs/learn/) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)     |
+| Service Mesh                             | Service Discovery, Traffic Management     | Istio - Service Mesh concepts          | Istio Documentation: [Course](https://istio.io/latest/) | [![GitLicense](https://img.shields.io/badge/NotStarted--blue.svg)](https://link.com)     |
 
 ### Advancing Expertise (Year 2)
 - Advanced Skills Acquisition: In cloud computing, CI/CD practices, Infrastructure as Code, containerization, monitoring, GitOps, and service mesh.
